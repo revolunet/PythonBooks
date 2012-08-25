@@ -97,5 +97,14 @@
         "info": "[PDF DRAFT] This book gives an entry point to hands-on computer vision (images, videos...) with enough understanding of the underlying theory and algorithms.",
         "url": "http://programmingcomputervision.com/downloads/Draft_20120318.pdf",
         "cover": "img/cover_computervision.png"
+    },
+    {
+        "title": "Natural Language Processing with Python",
+        "author": "Steven Bird, Ewan Klein, and Edward Loper",
+        "authorUrl": "https://sites.google.com/site/naturallanguagetoolkit/book",
+        "level": "Advanced",
+        "info": "Practical introduction to programming for language processing, written by the creators of NLTK.",
+        "url": "https://sites.google.com/site/naturallanguagetoolkit/book",
+        "cover": "img/cover_nltk.png"
     }
 ]}
