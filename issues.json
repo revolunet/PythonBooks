@@ -1,0 +1,101 @@
+{ "books" : [
+    {
+        "title": "Learn Python The Hard Way",
+        "author": "Zed A. Shaw",
+        "authorUrl": "http://learnpythonthehardway.org/",
+        "level": "Beginner",
+        "info": "Have you always wanted to learn how to code but never thought you could? Do you want to challenge your brain in a new way? ",
+        "url": "http://learnpythonthehardway.org/book/intro.html",
+        "cover": "img/cover_learnpython.jpeg"
+    },
+    {
+        "title": "Dive into Python (2004)",
+        "author": "Mark Pilgrim",
+        "authorUrl": "http://getpython3.com/diveintopython3/",
+        "level": "Intermediate",
+        "info": "Dive Into Python is a free Python book (from 2004) for experienced programmers. It covers many basics of the language",
+        "url": "http://www.diveintopython.net/toc/index.html",
+        "cover": "img/cover_divepython.png"
+    },
+    {
+        "title": "Dive into Python 3",
+        "author": "Mark Pilgrim",
+        "authorUrl": "http://getpython3.com/diveintopython3/",
+        "level": "Intermediate",
+        "info": "Dive Into Python 3 covers what's new in Python 3 and how its differs from Python 2.",
+        "url": "http://getpython3.com/diveintopython3/whats-new.html",
+        "cover": "img/cover_divepython3.png"
+    },
+    {
+        "title": "How to Think Like a Computer Scientist",
+        "author": "Allen B. Downey",
+        "authorUrl": "http://www.greenteapress.com/",
+        "level": "Beginner",
+        "info": "A very exhaustive book covering most of the language features, from datatypes to OOP and debugging.",
+        "url": "http://www.greenteapress.com/thinkpython/thinkCSpy/thinkCSpy.pdf",
+        "cover": "img/cover_thinkpython.png"
+    },
+    {
+        "title": "Kivy programming Guide",
+        "author": "Kivy",
+        "authorUrl": "http://kivy.org/",
+        "level": "Intermediate",
+        "info": "Discover Kivy the multitouch Python framework for desktop and mobile, and learn how to create a simple game.",
+        "url": "http://kivy.org/docs/pdf/Kivy-latest.pdf",
+        "cover": "img/cover_kivy.png"
+    },
+    {
+        "title": "Making games woth Python and Pygame",
+        "author": "Al Sweigart",
+        "authorUrl": "http://inventwithpython.com",
+        "level": "Intermediate",
+        "info": "Making Games with Python & Pygame” covers the Pygame library with the source code for 11 games.",
+        "url": "http://inventwithpython.com/pygame/chapters/",
+        "cover": "img/cover_makinggame.png"
+    },
+    {
+        "title": "A byte of Python",
+        "author": "Swaroop C H",
+        "authorUrl": "http://www.swaroopch.org/",
+        "level": "Beginner",
+        "info": "This book serves as as a tutorial or guide to the Python language for a beginner audience.",
+        "url": "http://files.swaroopch.com/python/byteofpython_120.pdf",
+        "cover": "img/cover_swaroop.png"
+    },
+    {
+        "title": "Python 101 - Introduction to Python",
+        "author": "Dave Kuhlman",
+        "authorUrl": "http://www.rexx.com/~dkuhlman",
+        "level": "Beginner",
+        "info": "A quick introduction to Python, covering the basics for beginners.",
+        "url": "http://cutter.rexx.com/~dkuhlman/python_101/python_101.html",
+        "cover": "img/cover_python101.png"
+    },
+    {
+        "title": "The Standard Python Library",
+        "author": "Fredrik Lundh",
+        "authorUrl": "http://effbot.org/zone/",
+        "level": "Intermediate",
+        "info": "This book provides a brief description of each module of the +200 Python standard library and usage examples",
+        "url": "http://effbot.org/zone/librarybook-index.htm",
+        "cover": "img/cover_pythonstandardlibrairy.png"
+    },
+    {
+        "title": "Snake Wrangling for Kids",
+        "author": "Jason R. Briggs",
+        "authorUrl": "http://www.briggs.net.nz/snake-wrangling-for-kids.html",
+        "level": "Beginner",
+        "info": "[DOWNLOAD REQUIRED] For children 8 years and older, who would like to learn computer programming. It covers the very basics of programming, and uses the Python programming language to teach the concepts.",
+        "url": "http://www.briggs.net.nz/snake-wrangling-for-kids.html",
+        "cover": "img/cover_snakewrangling.png"
+    },
+    {
+        "title": "Programming Computer Vision with Python",
+        "author": "Jan Erik Solem",
+        "authorUrl": "http://programmingcomputervision.com/",
+        "level": "Advanced",
+        "info": "[PDF DRAFT] This book gives an entry point to hands-on computer vision (images, videos...) with enough understanding of the underlying theory and algorithms.",
+        "url": "http://programmingcomputervision.com/downloads/Draft_20120318.pdf",
+        "cover": "img/cover_computervision.png"
+    }
+]}
