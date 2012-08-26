@@ -1220,9 +1220,9 @@ footer {
   font-family: Helvetica, Arial, sans-serif;
 }
 .booksection p.description {
-  height: 73px;
+  height: 128px;
   line-height: 16px;
-  padding-bottom: 24px;
+  
   overflow: hidden;
   color: #505050;
 }
@@ -1445,7 +1445,7 @@ a#infos:hover {
     height: 154px;
   }
   .booksection p.description {
-    height: 50px;
+    height: 96px;
     padding-bottom: 5px;
     overflow: hidden;
   }
