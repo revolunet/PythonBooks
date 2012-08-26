@@ -6,7 +6,7 @@
         "level": "Beginner",
         "info": "Have you always wanted to learn how to code but never thought you could? Do you want to challenge your brain in a new way? ",
         "url": "http://learnpythonthehardway.org/book",
-        "cover": "img/cover_learnpython.png"
+        "cover": "img/cover_learnpython.jpg"
     },
     {
         "title": "Dive into Python (2004)",
@@ -15,7 +15,7 @@
         "level": "Intermediate",
         "info": "Dive Into Python is a free Python book (from 2004) for experienced programmers. It covers many basics of the language",
         "url": "http://www.diveintopython.net/toc/index.html",
-        "cover": "img/cover_divepython.png"
+        "cover": "img/cover_divepython.jpg"
     },
     {
         "title": "Dive into Python 3",
@@ -24,7 +24,7 @@
         "level": "Intermediate",
         "info": "Dive Into Python 3 covers what's new in Python 3 and how its differs from Python 2.",
         "url": "http://getpython3.com/diveintopython3/whats-new.html",
-        "cover": "img/cover_divepython3.png"
+        "cover": "img/cover_divepython3.jpg"
     },
     {
         "title": "How to Think Like a Computer Scientist",
@@ -33,7 +33,7 @@
         "level": "Beginner",
         "info": "A very exhaustive book covering most of the language features, from datatypes to OOP and debugging.",
         "url": "http://www.greenteapress.com/thinkpython/thinkCSpy/thinkCSpy.pdf",
-        "cover": "img/cover_thinkpython.png"
+        "cover": "img/cover_thinkpython.jpg"
     },
     {
         "title": "Kivy programming Guide",
@@ -123,7 +123,7 @@
         "level": "Advanced",
         "info": "[PDF DRAFT] This book gives an entry point to hands-on computer vision (images, videos...) with enough understanding of the underlying theory and algorithms.",
         "url": "http://programmingcomputervision.com/downloads/Draft_20120318.pdf",
-        "cover": "img/cover_computervision.png"
+        "cover": "img/cover_computervision.jpg"
     },
     {
         "title": "Natural Language Processing with Python",
@@ -132,7 +132,7 @@
         "level": "Advanced",
         "info": "Practical introduction to programming for language processing, written by the creators of NLTK.",
         "url": "https://sites.google.com/site/naturallanguagetoolkit/book",
-        "cover": "img/cover_nltk.png"
+        "cover": "img/cover_nltk.jpg"
     },
     {
         "title": "Think Complexity",
@@ -141,7 +141,7 @@
         "level": "Advanced",
         "info": "This book is about complexity science, data structures and algorithms, intermediate programming in Python, and the philosophy of science.",
         "url": "http://greenteapress.com/complexity/html/index.html",
-        "cover": "img/cover_complexity.png"
+        "cover": "img/cover_complexity.jpg"
     },
     {
         "title": "Think Stats",
@@ -150,7 +150,7 @@
         "level": "Advanced",
         "info": "Think Stats is an introduction to Probability and Statistics for Python programmers.",
         "url": "http://greenteapress.com/thinkstats/html/index.html",
-        "cover": "img/cover_stats.png"
+        "cover": "img/cover_stats.jpg"
     },
     {
         "title": "An introduction to Python",
@@ -162,13 +162,40 @@
         "cover": "img/cover_alabamaintro.png"
     },
     {
-        "title": "Python Scientifix lecture notes",
+        "title": "Building skills in Programming",
+        "author": "Steven F. Lot ",
+        "authorUrl": "http://homepage.mac.com/s_lott/",
+        "level": "Beginner",
+        "info": "How do you learn to program? Through a series of simple exercises that teach programming fundamentals with an easy-to-use, easy-to-learn programming language.",
+        "url": "http://www.itmaybeahack.com/homepage/books/nonprog/html/index.html",
+        "cover": "img/cover_buildingskillnonpro.jpg"
+    },
+    {
+        "title": "Building skills in Python",
+        "author": "Steven F. Lot ",
+        "authorUrl": "http://homepage.mac.com/s_lott/",
+        "level": "Beginner",
+        "info": "This 450+ page book has 42 chapters that will help you build Python programming skills through a series of exercises. This book includes six projects from straight-forward to sophisticated that will help solidify your Python skills.",
+        "url": "http://www.itmaybeahack.com/book/python-2.6/html/index.html",
+        "cover": "img/cover_buildingskillspython.jpg"
+    },
+    {
+        "title": "Building skills in OOP",
+        "author": "Steven F. Lot ",
+        "authorUrl": "http://homepage.mac.com/s_lott/",
+        "level": "Intermediate",
+        "info": "How do you move from OO programming to OO design? This 301-page book has 49 chapters that will help you build OO design skills through the creation of a moderately complex family of application programs.",
+        "url": "http://www.itmaybeahack.com/book/oodesign-python-2.1/html/index.html",
+        "cover": "img/cover_buildingskillsoop.jpg"
+    },
+    {
+        "title": "Python Scientific lecture notes",
         "author": "by the community",
         "authorUrl": "http://scipy-lectures.github.com/AUTHORS.html",
         "level": "Intermediate",
         "info": "Teaching material on the scientific Python ecosystem, a quick introduction to central tools and techniques. The different chapters each correspond to a 1 to 2 hours course with increasing level of expertise, from beginner to expert.",
         "url": "http://scipy-lectures.github.com/",
-        "cover": "img/cover_scientific.png"
+        "cover": "img/cover_scientific.jpg"
     },
     {
         "title": "Programmez avec Python 2",
@@ -177,7 +204,7 @@
         "level": "Beginner",
         "info": "[FRENCH] Apprenez à programmer avec Python 2. Découvrez la programmation et le language Python grâce à cet ouvrage de référence.",
         "url": "http://inforef.be/swi/download/apprendre_python.pdf",
-        "cover": "img/cover_apprendrepython2.png"
+        "cover": "img/cover_apprendrepython2.jpg"
     },
     {
         "title": "Programmez avec Python 3",
@@ -186,6 +213,6 @@
         "level": "Beginner",
         "info": "[FRENCH] Apprenez à programmer avec Python 3. Mise à jour du précédent ouvrage avec les spécificité de Python 3.",
         "url": "http://inforef.be/swi/download/apprendre_python3_5.pdf",
-        "cover": "img/cover_apprendrepython3.png"
+        "cover": "img/cover_apprendrepython3.jpg"
     }
 ]}
