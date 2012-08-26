@@ -26,7 +26,7 @@
 
     <div class="navbar navbar-fixed-top pbhead">
       <img src="./img/logo_pythonbooks.png" alt="python tutorials">
-      <h1>Learn Python the easy way !</h1>
+      <h1>Learn how to program in Python</h1>
       <a href="http://www.revolunet.com" target="_blank" title="revolunet" id="headerlink" >by revolunet - rich web apps for desktop and mobile</a>
       <a href="#" id="infos">About</a>
       <div id="twittit">
@@ -41,7 +41,7 @@
           <h4> The easiest and cheapest way to learn Python !</h4> 
           <hr>
           <p>
-           Python is a programming language that lets you work more quickly and integrate various systems more effectively. Find here the best free publications to learn Python without spending any bucks !
+           Python is a powerful programming language that lets you code efficiently and integrate various systems more effectively. Find here the best free publications to learn Python and muscle your brain !
           </p>
           <p>
             Fork it on GitHub and add you issue !
@@ -104,9 +104,9 @@
         {{#books}} 
          <div class="span4 booksection">
           <a target="_blank" href="{{url}}">
-            <div id="cover" style="background:black url('{{cover}}') no-repeat center;-webkit-background-size:cover;-moz-background-size:cover;background-size:cover;">
+            <div title="{{ title }}" id="cover" style="background:black url('{{cover}}') no-repeat center;-webkit-background-size:cover;-moz-background-size:cover;background-size:cover;">
             </div>
-            <h2>{{title}}</h2>
+            <h2 title="{{ title }}">{{title}}</h2>
           </a>
           <h3><a href="{{authorUrl}}" target="_blank">{{author}}</a></h3>
           <p class="level">{{level}}</p>

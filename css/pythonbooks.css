@@ -1232,13 +1232,14 @@ footer {
 
 h1, #headerlink {
   font: normal 12px 'Ubuntu', Helvetica, Arial, sans-serif;
-  margin-top: -10px;
+  margin-top: -15px;
+  margin-bottom: 5px;
   color: #2f2e2d;
   text-shadow: 1px 0 1px rgba(255, 255, 255, 0.6);
 }
 #headerlink {
   font-size: 12px;
-  color: white;
+  color: #aaa;
 }
 #headerlink:hover {
   text-decoration: none;
@@ -1275,7 +1276,7 @@ hr {
 }
 #twittit {
   position: absolute;
-  right: 120px;
+  right: 100px;
   top: 50%;
   margin-top: -9px;
 }
@@ -1385,6 +1386,23 @@ a#infos:hover {
     font-size: 14px;
   }
 }
+
+@media (max-width: 767px) {
+  div.pbhead {
+    height:65px;
+  }
+  div.pbhead h1 {
+    margin-top:-10px;
+    margin-bottom: 0px;
+  }
+  div.pbhead img {
+    height:50px;
+  }
+  a.github img {
+    height:90px;
+  }
+}
+
 @media (min-width: 768px) and (max-width: 979px) {
   .booksection #cover {
     float: none;
@@ -1394,6 +1412,9 @@ a#infos:hover {
   }
   .btn {
     width: 190px;
+  }
+  .booksection p.description {
+    height: 96px;
   }
 }
 @media (max-width: 767px) {
@@ -1420,13 +1441,17 @@ a#infos:hover {
     width: 90px;
   }
   .github {
-    display: none;
+    
+  }
+  a#infos {
+    right:30px
   }
   #twittit {
     position: absolute;
     width: 120px;
     top: 50%;
     margin-top: -9px;
+    right:50px;
   }
   #headerlink {
     font-size: 11px;
@@ -1446,13 +1471,15 @@ a#infos:hover {
   }
   .booksection p.description {
     height: 96px;
-    padding-bottom: 5px;
     overflow: hidden;
   }
   .github {
-    display: none;
+    
+  }
+  a#infos {
+      display:none;
   }
   #twittit {
-    display: none;
+    right: 0px;
   }
 }
