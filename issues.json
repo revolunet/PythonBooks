@@ -45,7 +45,34 @@
         "cover": "img/cover_kivy.png"
     },
     {
-        "title": "Making games woth Python and Pygame",
+        "title": "Django Tutorial",
+        "author": "Community",
+        "authorUrl": "https://docs.djangoproject.com/en/dev/intro/",
+        "level": "Intermediate",
+        "info": "With this hands-on tutorial, discover Django the popular high-level Python Web framework that encourages rapid development and clean, pragmatic design.",
+        "url": "https://docs.djangoproject.com/en/dev/intro/",
+        "cover": "img/cover_django.png"
+    },
+    {
+        "title": "Pyramid for Humans",
+        "author": "Community",
+        "authorUrl": "http://pyramid.readthedocs.org/en/latest/index.html",
+        "level": "Intermediate",
+        "info": "With this tutorial, discover Pyramid a Python web application development framework. Its primary goal is to make it easier for a Python developer to create web applications.",
+        "url": "http://docs.pylonsproject.org/projects/pyramid_tutorials/en/latest/humans/index.html",
+        "cover": "img/cover_pyramid.png"
+    },
+    {
+        "title": "Flask microframework",
+        "author": "Armin Ronacher",
+        "authorUrl": "http://lucumr.pocoo.org/",
+        "level": "Intermediate",
+        "info": "Learn the Flask web microframework by example. Flask aims to keep the core simple but extensible and gives you freedom to choose the libraries of your choice.",
+        "url": "http://flask.pocoo.org/docs/tutorial/",
+        "cover": "img/cover_flask.png"
+    },
+    {
+        "title": "Making games with Python and Pygame",
         "author": "Al Sweigart",
         "authorUrl": "http://inventwithpython.com",
         "level": "Intermediate",
@@ -70,15 +97,6 @@
         "info": "A quick introduction to Python, covering the basics for beginners.",
         "url": "http://cutter.rexx.com/~dkuhlman/python_101/python_101.html",
         "cover": "img/cover_python101.png"
-    },
-    {
-        "title": "An introduction to Python",
-        "author": "John C. Lusth",
-        "authorUrl": "http://learnpythonthehardway.org/",
-        "level": "Beginner",
-        "info": "A complete scholar overview of all Python 3 functionnalities from Alabama University.",
-        "url": "http://learnpythonthehardway.org/book/intro.html",
-        "cover": "img/cover_alabamaintro.png"
     },
     {
         "title": "The Standard Python Library",
@@ -133,5 +151,14 @@
         "info": "Think Stats is an introduction to Probability and Statistics for Python programmers.",
         "url": "http://greenteapress.com/thinkstats/html/index.html",
         "cover": "img/cover_stats.png"
+    },
+    {
+        "title": "An introduction to Python",
+        "author": "John C. Lusth",
+        "authorUrl": "http://beastie.cs.ua.edu/cs150/book/index.html",
+        "level": "Beginner",
+        "info": "A complete scholar overview of all Python 3 functionnalities from the Alabama University.",
+        "url": "http://beastie.cs.ua.edu/cs150/book/index.html",
+        "cover": "img/cover_alabamaintro.png"
     }
 ]}
