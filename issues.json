@@ -160,5 +160,23 @@
         "info": "A complete scholar overview of all Python 3 functionnalities from the Alabama University.",
         "url": "http://beastie.cs.ua.edu/cs150/book/index.html",
         "cover": "img/cover_alabamaintro.png"
+    },
+    {
+        "title": "Programmez avec Python 2",
+        "author": "Gérard Swinnen",
+        "authorUrl": "http://inforef.be/swi/python.htm",
+        "level": "Beginner",
+        "info": "[FRENCH] Apprenez à programmer avec Python 2. Découvrez la programmation et le language Python grâce à cet ouvrage de référence.",
+        "url": "http://inforef.be/swi/download/apprendre_python.pdf",
+        "cover": "img/cover_apprendrepython2.png"
+    },
+    {
+        "title": "Programmez avec Python 3",
+        "author": "Gérard Swinnen",
+        "authorUrl": "http://inforef.be/swi/python.htm",
+        "level": "Beginner",
+        "info": "[FRENCH] Apprenez à programmer avec Python 3. Mise à jour du précédent ouvrage avec les spécificité de Python 3.",
+        "url": "http://inforef.be/swi/download/apprendre_python3_5.pdf",
+        "cover": "img/cover_apprendrepython3.png"
     }
 ]}
