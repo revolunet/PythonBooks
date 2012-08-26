@@ -72,6 +72,15 @@
         "cover": "img/cover_python101.png"
     },
     {
+        "title": "An introduction to Python",
+        "author": "John C. Lusth",
+        "authorUrl": "http://learnpythonthehardway.org/",
+        "level": "Beginner",
+        "info": "A complete scholar overview of all Python 3 functionnalities from Alabama University.",
+        "url": "http://learnpythonthehardway.org/book/intro.html",
+        "cover": "img/cover_alabamaintro.png"
+    },
+    {
         "title": "The Standard Python Library",
         "author": "Fredrik Lundh",
         "authorUrl": "http://effbot.org/zone/",
@@ -106,5 +115,23 @@
         "info": "Practical introduction to programming for language processing, written by the creators of NLTK.",
         "url": "https://sites.google.com/site/naturallanguagetoolkit/book",
         "cover": "img/cover_nltk.png"
+    },
+    {
+        "title": "Think Complexity",
+        "author": "Allen B. Downey",
+        "authorUrl": "http://www.greenteapress.com/",
+        "level": "Advanced",
+        "info": "This book is about complexity science, data structures and algorithms, intermediate programming in Python, and the philosophy of science.",
+        "url": "http://greenteapress.com/complexity/html/index.html",
+        "cover": "img/cover_complexity.png"
+    },
+    {
+        "title": "Think Stats",
+        "author": "Allen B. Downey",
+        "authorUrl": "http://www.greenteapress.com/",
+        "level": "Advanced",
+        "info": "Think Stats is an introduction to Probability and Statistics for Python programmers.",
+        "url": "http://greenteapress.com/thinkstats/html/index.html",
+        "cover": "img/cover_stats.png"
     }
 ]}
