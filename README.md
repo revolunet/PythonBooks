@@ -6,6 +6,8 @@ Learn Python, discover new fields, and muscle your brain for free !
 
 check it out : http://pythonbooks.revolunet.com
 
+We also have a javascript version : http://jsbooks.revolunet.com
+
 
 ## HOW TO ADD YOUR PUBLICATION
 
@@ -28,7 +30,7 @@ After some weeks of work, we discovered that having a functionnal application wa
 
 You also have to follow various Apple guidelines and use some Apple libraries to be 'NewsStand' compatible.
 
-So we decided to go full web and this move gave JSBooks a much wider audience.
+So we decided to go full web and this move gave the project a much wider audience.
 
 Thanks Apple to give us this opportunity :)
 
