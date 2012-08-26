@@ -85,7 +85,7 @@
         "author": "Swaroop C H",
         "authorUrl": "http://www.swaroopch.org/",
         "level": "Beginner",
-        "info": "This book serves as as a tutorial or guide to the Python language for a beginner audience.",
+        "info": "This book aims to help you learn the wonderful Python language and show how to get things done quickly and painlessly - in effect 'The Perfect Anti-venom to your programming problems'.",
         "url": "http://files.swaroopch.com/python/byteofpython_120.pdf",
         "cover": "img/cover_swaroop.png"
     },
@@ -94,7 +94,7 @@
         "author": "Dave Kuhlman",
         "authorUrl": "http://www.rexx.com/~dkuhlman",
         "level": "Beginner",
-        "info": "A quick introduction to Python, covering the basics for beginners.",
+        "info": "This document is a syllabus for a first course in Python programming. This course contains an introduction to the Python language, instruction in the important and commonly used features of the language, and practical excercises in the use of those features.",
         "url": "http://cutter.rexx.com/~dkuhlman/python_101/python_101.html",
         "cover": "img/cover_python101.png"
     },
@@ -151,6 +151,15 @@
         "info": "Think Stats is an introduction to Probability and Statistics for Python programmers.",
         "url": "http://greenteapress.com/thinkstats/html/index.html",
         "cover": "img/cover_stats.jpg"
+    },
+    {
+        "title": "Python Module of the week",
+        "author": "Doug Hellman",
+        "authorUrl": "http://www.doughellmann.com/",
+        "level": "Intermediate",
+        "info": "The Python Module of the Week series, or PyMOTW, is a tour of the Python standard library through short and concrete examples. It covers more than 50 modules.",
+        "url": "http://www.doughellmann.com/PyMOTW/contents.html",
+        "cover": "img/cover_pymotw.png"
     },
     {
         "title": "An introduction to Python",
