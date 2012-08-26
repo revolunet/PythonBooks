@@ -4,6 +4,8 @@ PythonBooks is a showcase of the bests free ebooks about Python.
 
 Learn Python, discover new fields, and muscle your brain for free !
 
+check it out : http://pythonbooks.revolunet.com
+
 
 ## HOW TO ADD YOUR PUBLICATION
 
