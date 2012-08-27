@@ -1222,17 +1222,41 @@ footer {
 .booksection p.description {
   height: 128px;
   line-height: 16px;
-  
   overflow: hidden;
   color: #505050;
 }
 .booksection p.level {
   color: grey;
 }
+.booksection .view {
+  display: block;
+  position: absolute;
+  -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  filter: alpha(opacity=0);
+  opacity:0;
+  width: 140px;
+  height: 184px;
+  font: normal 14px 'Ubuntu', Helvetica, Arial, sans-serif;
+  line-height: 184px;
+  background-color: rgba(54, 109, 156,.9);
+  z-index: 10;
+  text-align: center;
+  color: white;
+  text-shadow:0 0 10px #f8d74c;
+  -webkit-transition:opacity .2s linear;
+  -moz-transition:opacity .2s linear;
+  -o-transition:opacity .2s linear;
+  transition:opacity .2s linear;
 
+}
+.booksection .view:hover {
+  -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=1000)";
+  filter: alpha(opacity=1000);
+  opacity:10;
+}
 h1, #headerlink {
   font: normal 12px 'Ubuntu', Helvetica, Arial, sans-serif;
-  margin-top: -15px;
+  margin-top: 10px;
   margin-bottom: 5px;
   color: #2f2e2d;
   text-shadow: 1px 0 1px rgba(255, 255, 255, 0.6);
@@ -1240,6 +1264,7 @@ h1, #headerlink {
 #headerlink {
   font-size: 12px;
   color: #aaa;
+  text-shadow: 1px 0 1px rgba(255, 255, 255, 0.8);
 }
 #headerlink:hover {
   text-decoration: none;
@@ -1309,6 +1334,7 @@ a#infos:hover {
 }
 #mod_infos h4 {
   padding-bottom: 4px;
+  margin-bottom: 10px;
   text-transform: uppercase;
   color: #366d9c;
   text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.7);
@@ -1392,11 +1418,11 @@ a#infos:hover {
     height:65px;
   }
   div.pbhead h1 {
-    margin-top:-10px;
-    margin-bottom: 0px;
+    margin-top: 5px;
+    font-size: 12px;
   }
   div.pbhead img {
-    height:50px;
+    height:35px;
   }
   a.github img {
     height:90px;
@@ -1410,6 +1436,12 @@ a#infos:hover {
     height: 298px;
     margin-bottom: 10px;
   }
+  .booksection .view {
+    width: 228px;
+    height: 298px;
+    font: normal 17px Helvetica, Arial, sans-serif;
+    line-height: 298px;
+}
   .btn {
     width: 190px;
   }
@@ -1461,13 +1493,6 @@ a#infos:hover {
 @media (max-width: 480px) {
   .btn {
     width: 120px;
-  }
-  .booksection {
-    height: 170px;
-  }
-  .booksection #cover {
-    width: 110px;
-    height: 154px;
   }
   .booksection p.description {
     height: 96px;
