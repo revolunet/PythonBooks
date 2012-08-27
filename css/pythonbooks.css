@@ -1176,7 +1176,7 @@ Python Books Styles
 
 
 body {
-  padding-top: 150px;
+  padding-top: 130px;
   background-color: #f6f6f6;
   background-attachment: fixed;
   font-family: 'Gentium Book Basic', serif;
@@ -1199,9 +1199,16 @@ body {
   border: 0;
   z-index: 10000;
 }
+a.jsbookslinks {
+  color: #bcbcbc;
+  font-family: Helvetica, Arial, sans-serif;
+  display: inline-block;
+  margin: 0 0 20px 0;
+}
 footer {
   height: 10px;
   line-height: 10px;
+  font-family: 
   color: #444;
 }
 .booksection {
