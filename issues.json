@@ -1,5 +1,23 @@
 { "books" : [
     {
+		"title": "How to Think Like a Computer Scientist: Interactive Edition",
+		"author": "Brad Miller, David Ranum, Jeffrey Elkner, et. al.",
+		"authorUrl": "http://reputablejournal.com",
+		"level": "Beginner",
+		"info": "This interactive book teaches you Python the interactive way, right in the browser.",
+		"url": "http://interactivepython.org/courselib/static/thinkcspy/index.html",
+		"cover": "img/runestone.png"
+	},
+    {
+		"title": "Problem Solving with Algorithms and Data Structures Using Python",
+		"author": "Bradley Miller and David Ranum",
+		"authorUrl": "http://reputablejournal.com/",
+		"level": "Intermediate",
+		"info": "This book is a CS2 data structures textbook, with a review of Python concepts in chapter 1",
+		"url": "http://interactivepython.org/courselib/static/pythonds/index.html",
+		"cover": "img/PythonDScover.png"
+    },
+    {
         "title": "Learn Python The Hard Way",
         "author": "Zed A. Shaw",
         "authorUrl": "http://learnpythonthehardway.org/",
