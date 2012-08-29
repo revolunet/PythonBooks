@@ -145,7 +145,7 @@
     },
     {
         "title": "Natural Language Processing with Python",
-        "author": "Steven Bird, Ewan Klein, and Edward Loper",
+        "author": "Steven Bird, Ewan Klein...",
         "authorUrl": "https://sites.google.com/site/naturallanguagetoolkit/book",
         "level": "Advanced",
         "info": "Practical introduction to programming for language processing, written by the creators of NLTK.",
