@@ -1,7 +1,7 @@
 { "books" : [
     {
         "title": "How to Think Like a Computer Scientist: Interactive Edition",
-        "author": "Brad Miller, David Ranum, Jeffrey...",
+        "author": "B. Miller & D. Ranum",
         "authorUrl": "http://reputablejournal.com",
         "level": "Beginner",
         "info": "This interactive book teaches you Python the interactive way, right in the browser.",
