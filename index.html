@@ -27,62 +27,33 @@
     <div class="navbar navbar-fixed-top pbhead">
       <img src="./img/logo_pythonbooks_.png" alt="python tutorials">
       <h1>The best free Python resources</h1>
-      <a href="http://www.revolunet.com" target="_blank" title="revolunet" id="headerlink" >by revolunet - rich web apps for desktop and mobile</a>
-      <a href="#" id="infos">About</a>
-      <div id="twittit">
-        <a href="https://twitter.com/revolunet" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @revolunet</a>
-        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-      </div>
-    </div>
-
-    <div class="container" id="mod_infos">
-      <div class="row">
-        <div class="span6"> 
-          <h4> The easiest and cheapest way to learn Python !</h4> 
-          <p>
-           Python is a powerful programming language that lets you code efficiently and integrate various systems more effectively. Find here the best free publications to learn Python and muscle your brain !
-          </p>
-          <p>
-            Fork it on GitHub and add you issue !
-          </p>
-          <p>
-            PythonBooks will be updated with fresh and updated content out there. Drop your mail below to be notified on each update :
-            <form action="http://revolunet.us1.list-manage2.com/subscribe/post" method="POST">
-            <input type="hidden" name="u" value="43cbcac99221b1ab80c14a121">
-            <input type="hidden" name="id" value="840b8b1591">
-              <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email adress" required>
-              <input type="submit" value="Subscribe">
-            </form> 
-          </p> 
-        </div>
-        <div class="span6"> 
-          <h4>About us :</h4> 
-          <p>
-            <a href="http://www.revolunet.com" target="_blank" title="revolunet">Revolunet</a> is a company specialized in web applications development. <br>
-            Feel free to contact us by mail for further information: <br> 
-            <a href="mailto:contact@revolunet.com">contact@revolunet.com</a>
-          </p>
-
-
-         <a href="https://twitter.com/share" class="twitter-share-button" data-text="Here are the best Python ressources to learn #python for free ! #webdevelopment #javascript" data-via="revolunet"></a>
-         <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-         <br>
-
-        </div>
-      </div>
+      <a href="http://www.revolunet.com" target="_blank" title="revolunet" id="headerlink">by revolunet - rich web apps for desktop and mobile</a>
+      <ul>
+        <li>
+          <a href="https://twitter.com/share" class="twitter-share-button" data-text="Here are the best Python ressources to learn #python for free ! #webdevelopment #javascript" data-via="revolunet"></a>
+          <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+        </li>
+        <li><a href="http://JSbooks.revolunet.com">JS Version</a></li>
+      </ul>
     </div>
 
     <div class="container">
-          <a class="jsbookslinks" href="http://jsbooks.revolunet.com/" target="_blank">
-            Want to learn Javascript for free too ? Click here !
-          </a>
       <div class="row" id="issueswrap">
       </div>
     </div>
 
     <div class="footer">
         <hr>
-        <a href="http://www.revolunet.com" target="_blank"> <img src="./img/revologo.png" alt="" /> </a>
+        <a href="http://www.revolunet.com" target="_blank" onclick="_gaq.push(['_trackEvent', 'pythonbooks', 'clic footer'])" >
+          <img src="img/revologo.png" width="166" height="35" alt="Revolunet">
+        </a>
+        <p>
+          We provides high quality web applications for desktop and mobile.
+          <a href="mailto:contact@revolunet.com" target="_blank" alt="revolunet" id="footerlink">Get in touch</a>
+        </p>
+
+        <a href="https://twitter.com/revolunet" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @revolunet</a>
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
     </div>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
@@ -106,7 +77,7 @@
         {{#books}} 
          <div class="span4 booksection">
           <a target="_blank" href="{{url}}">
-            <div class="view"> READ </div>
+            <div class="view"></div>
             <div title="{{ title }}" id="cover" style="background:black url('{{cover}}') no-repeat center;-webkit-background-size:cover;-moz-background-size:cover;background-size:cover;">
             </div>
             <h2 title="{{ title }}">{{title}}</h2>

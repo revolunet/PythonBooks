@@ -1176,7 +1176,7 @@ Python Books Styles
 
 
 body {
-  padding-top: 130px;
+  padding-top: 140px;
   background-color: #f6f6f6;
   background-attachment: fixed;
   font-family: 'Gentium Book Basic', serif;
@@ -1188,8 +1188,18 @@ body {
   background-color: #dddbdb;
   background: rgba(221, 219, 219,.9);
   border-bottom: 1px solid white;
-  /*box-shadow: 0 1px 3px rgba(0, 0, 0,.1);*/
   text-align: center;
+}
+.pbhead h1, .footer p {
+  margin-top: 7px;
+  color: #646464;
+  text-shadow: 0 1px 0 white;
+}
+#headerlink, .footer p, #footerlink {
+font: normal 10px 'Ubuntu', Helvetica, Arial, sans-serif;
+color: #aaa;
+text-shadow: 1px 0 1px rgba(255, 255, 255, 0.8);
+margin-top: 5px;
 }
 .github img {
   max-height: 128px;
@@ -1204,12 +1214,6 @@ a.jsbookslinks {
   font-family: Helvetica, Arial, sans-serif;
   display: inline-block;
   margin: 0 0 20px 0;
-}
-footer {
-  height: 10px;
-  line-height: 10px;
-  font-family: 
-  color: #444;
 }
 .booksection {
   margin-bottom: 30px;
@@ -1243,13 +1247,8 @@ footer {
   opacity:0;
   width: 140px;
   height: 184px;
-  font: normal 14px 'Ubuntu', Helvetica, Arial, sans-serif;
-  line-height: 184px;
-  background-color: rgba(54, 109, 156,.9);
+  background: rgba(54, 109, 156,.9) url('../img/view.png') no-repeat center;
   z-index: 10;
-  text-align: center;
-  color: white;
-  text-shadow:0 0 10px #f8d74c;
   -webkit-transition:opacity .2s linear;
   -moz-transition:opacity .2s linear;
   -o-transition:opacity .2s linear;
@@ -1261,20 +1260,12 @@ footer {
   filter: alpha(opacity=1000);
   opacity:10;
 }
-h1, #headerlink {
+h1 {
   font: normal 12px 'Ubuntu', Helvetica, Arial, sans-serif;
   margin-top: 10px;
   margin-bottom: 5px;
   color: #2f2e2d;
   text-shadow: 1px 0 1px rgba(255, 255, 255, 0.6);
-}
-#headerlink {
-  font-size: 12px;
-  color: #aaa;
-  text-shadow: 1px 0 1px rgba(255, 255, 255, 0.8);
-}
-#headerlink:hover {
-  text-decoration: none;
 }
 h2,
 h4 {
@@ -1286,6 +1277,7 @@ h4 {
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
+  -moz-binding: url('ellipsis.xml#ellipsis');
 }
 h3 {
   line-height: 13px;
@@ -1295,6 +1287,9 @@ h3 a {
   font: normal 12px "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #fcc41b;
   text-shadow: 2px 0 0 rgba(255,255,255,.8);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 h3 a:hover,
 h3 a:active {
@@ -1306,31 +1301,36 @@ hr {
   border-top: 1px solid #dfdddd;
   border-bottom: 1px solid white;
 }
-#twittit {
+ul {
+  list-style-type: none;
   position: absolute;
-  right: 100px;
   top: 50%;
-  margin-top: -9px;
+  margin-top: -10px;
+  right: 40px;
+  height: 20px;
 }
-a#infos {
-  position: absolute;
-  right: 50px;
-  top: 50%;
-  margin-top: -13px;
-  color: black;
+ul li {
+  display: inline;
+  height: 20px;
+}
+ul li a {
+  vertical-align: top;
+  color: grey;
   text-shadow: 1px 0 0 rgba(255, 255, 255, 0.4);
   font: bold 12px Arial, Helvetica, sans-serif;
-  line-height: 26px;
   -webkit-transition: all .2s linear;
   -moz-transition: all .2s linear;
   -o-transition: all .2s linear;
   -ms-transition: all .2s linear;
   transition: all .2s linear;
 }
-a#infos:hover {
+ul li a:hover {
   text-decoration: none;
-  color: grey;
+  color: black;
   text-shadow:none;
+}
+.twitter-share-button {
+  height: 30px;
 }
 #mod_infos {
   padding: 10px 20px;
@@ -1347,73 +1347,20 @@ a#infos:hover {
   text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.7);
   border-bottom: 1px solid #366d9c;
 }
-#mod_infos p,
-#mod_infos a {
-  color: rgba(0, 0, 0, 1);
-  text-decoration: none;
-}
-#mod_infos p {
-  color: black;
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 12px;
-}
-#mod_infos hr {
-  color: grey;
-}
-#mod_infos a:hover {
-  text-decoration: underline;
-}
-#mod_infos input[type="submit"] {
-  margin-top: -7px;
-}
-#mod_infos ul {
-  list-style-type: none;
-  margin-left: 0;
-}
-#mod_infos ul li {
-  display: inline;
-  margin-right: 5px;
-}
-#mod_infos ul li a {
-  cursor: pointer;
-  text-decoration: none;
-}
-#mod_infos ul li a:hover {
-  text-decoration: none;
-}
-.btn {
-  font: bold 13px Helvetica, Arial, sans-serif;
-  color: white;
-  text-shadow: 0px 1px 0px #555;
-  width: 100px;
-  background: rgba(89, 110, 155,.6);
-  border: 1px solid white;
-  -webkit-transition: all .1s linear;
-  -moz-transition: all .1s linear;
-  transition: all .1s linear;
-}
-.btn:hover {
-  background-position: 0;
-  color: white;
-  background: #366d9c;
-  -webkit-transition: all .1s linear;
-  -moz-transition: all .1s linear;
-  transition: all .1s linear;
-}
-.btn:active {
-  color: white;
-  background-color: #black;
-  color: white;
-  text-shadow: none;
-}
 .footer {
   padding: 10px 0;
   text-align: center;
 }
-/* RESPONSIVE LAYOUT */
-@media (min-width: 1200px) {
-  
+.footer hr {
+  width: 75%;
+  margin: 0 auto;
+  margin-bottom: 9px;
 }
+.footer p; .footer a {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 10px;
+}
+/* RESPONSIVE LAYOUT */
 @media (min-width: 980px) and (max-width: 1200px) {
   h2 {
     font-size: 14px;
@@ -1421,8 +1368,11 @@ a#infos:hover {
 }
 
 @media (max-width: 767px) {
+  body {
+    padding-top: 130px;
+  }
   div.pbhead {
-    height:65px;
+    height:73px;
   }
   div.pbhead h1 {
     margin-top: 5px;
@@ -1431,9 +1381,27 @@ a#infos:hover {
   div.pbhead img {
     height:35px;
   }
-  a.github img {
-    height:90px;
+  ul {
+    margin-top: -20px;
   }
+  ul li {
+      display: block;
+      height: 25px;
+  }
+  a.github img {
+    height:100px;
+  }
+  h1 {
+      font: normal 14px 'Ubuntu', Helvetica, Arial, sans-serif;
+    }
+  .booksection {
+    height: 200px;
+  }
+  .booksection #cover {
+    width: 140px;
+    height: 184px;
+  }
+  
 }
 
 @media (min-width: 768px) and (max-width: 979px) {
@@ -1456,47 +1424,6 @@ a#infos:hover {
     height: 96px;
   }
 }
-@media (max-width: 767px) {
-  body {
-    padding-top: 100px;
-  }
-  .jshead {
-    height: 57px;
-  }
-  .jshead img {
-    max-width: 100px;
-  }
-  h1 {
-    font: normal 14px 'Ubuntu', Helvetica, Arial, sans-serif;
-  }
-  .booksection {
-    height: 200px;
-  }
-  .booksection #cover {
-    width: 140px;
-    height: 184px;
-  }
-  .btn {
-    width: 90px;
-  }
-  .github {
-    
-  }
-  a#infos {
-    right:30px
-  }
-  #twittit {
-    position: absolute;
-    width: 120px;
-    top: 50%;
-    margin-top: -9px;
-    right:50px;
-  }
-  #headerlink {
-    font-size: 11px;
-    display: inline;
-  }
-}
 @media (max-width: 480px) {
   .btn {
     width: 120px;
@@ -1505,13 +1432,13 @@ a#infos:hover {
     height: 96px;
     overflow: hidden;
   }
-  .github {
-    
+  .twitter-share-button {
+    display: none;
   }
-  a#infos {
-      display:none;
+  ul {
+    margin-top: -10px;
   }
-  #twittit {
-    right: 0px;
+  ul li:first-child {
+    display: none;
   }
 }
