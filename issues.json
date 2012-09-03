@@ -250,5 +250,14 @@
         "info": "[FRENCH] Apprenez à programmer avec Python 3. Mise à jour du précédent ouvrage avec les spécificité de Python 3.",
         "url": "http://inforef.be/swi/download/apprendre_python3_5.pdf",
         "cover": "img/cover_apprendrepython3.jpg"
+    },
+    {
+        "title": "Python for you and me",
+        "author": "Kushal Das",
+        "authorUrl": "http://kushaldas.in",
+        "level": "Beginner",
+        "info": "A book for the total new comers into Python world. Was started as book for students before they read Python tutorial.",
+        "url": "http://kushal.fedorapeople.org/book/",
+        "cover": "img/pym.png"
     }
 ]}
