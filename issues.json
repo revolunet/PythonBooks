@@ -103,7 +103,7 @@
         "author": "Ian Ozsvald",
         "authorUrl": "http://ianozsvald.com/",
         "level": "Advanced",
-        "info": "In this 55 pages tutorial, Ian Ozsvald shows you a number of techniques to get a 10-500 performance increase in your Python apps, from profiling, to PyPy, numPy, Multiprocessing...",
+        "info": "In this 55 pages tutorial, Ian Ozsvald shows you a number of techniques to increase your Python apps performance : profiling, PyPy, processes... see the <a target='_blank' href='http://ianozsvald.com/2011/07/25/high-performance-python-tutorial-v0-2-from-europython-2011'>blog post</a>",
         "url": "http://ianozsvald.com/HighPerformancePythonfromTrainingatEuroPython2011_v0.2.pdf",
         "cover": "img/cover_highperf.png"
     },
