@@ -99,6 +99,15 @@
         "cover": "img/cover_makinggame.png"
     },
     {
+        "title": "High Performance Python tutorial",
+        "author": "Ian Ozsvald",
+        "authorUrl": "http://ianozsvald.com/2011/07/25/high-performance-python-tutorial-v0-2-from-europython-2011",
+        "level": "Advanced",
+        "info": "In this 55 pages tutorial, Ian Ozsvald shows you a number of techniques to get a 10-500 performance increase in your Python apps, from profiling, to PyPy, numPy, Multiprocessing...",
+        "url": "http://ianozsvald.com/HighPerformancePythonfromTrainingatEuroPython2011_v0.2.pdf",
+        "cover": "img/cover_highperf.png"
+    },
+    {
         "title": "A byte of Python",
         "author": "Swaroop C H",
         "authorUrl": "http://www.swaroopch.org/",
@@ -241,5 +250,14 @@
         "info": "[FRENCH] Apprenez à programmer avec Python 3. Mise à jour du précédent ouvrage avec les spécificité de Python 3.",
         "url": "http://inforef.be/swi/download/apprendre_python3_5.pdf",
         "cover": "img/cover_apprendrepython3.jpg"
+    },
+    {
+        "title": "Python for you and me",
+        "author": "Kushal Das",
+        "authorUrl": "http://kushaldas.in",
+        "level": "Beginner",
+        "info": "A book for the total new comers into Python world. Was started as book for students before they read Python tutorial.",
+        "url": "http://kushal.fedorapeople.org/book/",
+        "cover": "img/pym.png"
     }
 ]}
