@@ -1,5 +1,14 @@
 { "books" : [
     {
+        "title": "Python para Desenvolvedores (2nd Edition)",
+        "author": "Luiz Eduardo Borges",
+        "authorUrl": "http://ark4n.wordpress.com/python/",
+        "level": "Intermediate",
+        "info": "[PORTUGUESE] Este livro aborda assuntos que incluem: criação de interfaces com usuário, computação gráfica, aplicações para internet, sistemas distribuídos, entre outros.",
+        "url": "http://ark4n.files.wordpress.com/2010/01/python_para_desenvolvedores_2ed.pdf",
+        "cover": "img/cover_pypd_2ed_th.jpg"
+    },
+    {
         "title": "How to Think Like a Computer Scientist: Interactive Edition",
         "author": "B. Miller & D. Ranum",
         "authorUrl": "http://reputablejournal.com",
