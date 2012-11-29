@@ -1215,6 +1215,26 @@ a.jsbookslinks {
   display: inline-block;
   margin: 0 0 20px 0;
 }
+a.recrutement {
+  display: block;
+  width: 35%;
+  color: white;
+  font: bold 11px 'Ubuntu', Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  padding: 10px 20px;
+  margin: 0 auto 30px;
+  text-align: center;
+  background-color: #777;
+  -webkit-transition-duration: .4s;
+  -moz-transition-duration: .4s;
+  -ms-transition-duration: .4s;
+  -o-transition-duration: .4s;
+  transition-duration: .4s;
+}
+a.recrutement:hover {
+  color: #ffd242;
+  text-decoration: none;
+}
 .booksection {
   margin-bottom: 30px;
 }
@@ -1368,6 +1388,9 @@ ul li a:hover {
 }
 
 @media (max-width: 767px) {
+  a.recrutement {
+    width: 90%;
+  }
   body {
     padding-top: 130px;
   }
@@ -1405,6 +1428,9 @@ ul li a:hover {
 }
 
 @media (min-width: 768px) and (max-width: 979px) {
+  a.recrutement {
+    width: 90%;
+  }
   .booksection #cover {
     float: none;
     width: 228px;
@@ -1425,8 +1451,15 @@ ul li a:hover {
   }
 }
 @media (max-width: 480px) {
+  a.recrutement {
+    width: 90%;
+  }
   .btn {
     width: 120px;
+  }
+  a.recrutement {
+    display: block;
+    width: 90%;
   }
   .booksection p.description {
     height: 96px;
