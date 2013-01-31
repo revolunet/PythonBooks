@@ -268,5 +268,23 @@
         "info": "A book for the total new comers into Python world. Was started as book for students before they read Python tutorial.",
         "url": "http://kushal.fedorapeople.org/book/",
         "cover": "img/pym.png"
+    },
+    {
+        "title": "Data Structures and Algorithms with Object-Oriented Design Patterns in Python",
+        "author": "Bruno R. Preiss",
+        "authorUrl": "http://www.brpreiss.com",
+        "level": "Intermediate",
+        "info": "This book is about the fundamentals of data structures and algorithms. It uses object oriented design patterns and teaches topics like stacks, queues, lists, hashing and graphs. There are also versions for other programming languages.",
+        "url": "http://www.brpreiss.com/books/opus7/",
+        "cover": "img/cover_datastructandalg.png"
+    },
+    {
+        "title": "Porting to Python 3: An in-depth guide",
+        "author": "Lennart Regebro",
+        "authorUrl": "http://regebro.wordpress.com/",
+        "level": "Intermediate",
+        "info": "This book guides you through the process of porting your Python 2 code to Python 3, from choosing a porting strategy to solving your distribution issues. Using plenty of code examples is takes you cross the hurdles and shows you the new Python features.",
+        "url": "http://python3porting.com/",
+        "cover": "img/cover_porting_python3.png"
     }
 ]}
