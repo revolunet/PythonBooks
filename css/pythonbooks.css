@@ -1176,7 +1176,7 @@ Python Books Styles
 
 
 body {
-  padding-top: 140px;
+  padding-top: 115px;
   background-color: #f6f6f6;
   background-attachment: fixed;
   font-family: 'Gentium Book Basic', serif;
@@ -1215,26 +1215,35 @@ a.jsbookslinks {
   display: inline-block;
   margin: 0 0 20px 0;
 }
-a.recrutement {
-  display: block;
-  width: 35%;
-  color: white;
+.banner {
   font: bold 11px 'Ubuntu', Helvetica, Arial, sans-serif;
   text-transform: uppercase;
-  padding: 10px 20px;
-  margin: 0 auto 30px;
   text-align: center;
-  background-color: #777;
   -webkit-transition-duration: .4s;
   -moz-transition-duration: .4s;
   -ms-transition-duration: .4s;
   -o-transition-duration: .4s;
   transition-duration: .4s;
 }
-a.recrutement:hover {
-  color: #ffd242;
-  text-decoration: none;
+.banner a {
+  display: block;
+  text-decoration: underline;
+  margin: 20px 0;
 }
+.banner a:hover {
+  color: #366d9a;
+}
+.jsbooks {
+  text-align: center;
+  margin: 10px 0 30px;
+}
+a.jsbooks {
+  color: white;
+  background-color: #666;
+  padding: 10px 0;
+  border-radius: 3px;
+}
+
 .booksection {
   margin-bottom: 30px;
 }
@@ -1388,11 +1397,8 @@ ul li a:hover {
 }
 
 @media (max-width: 767px) {
-  a.recrutement {
-    width: 90%;
-  }
   body {
-    padding-top: 130px;
+    padding-top: 95px;
   }
   div.pbhead {
     height:73px;
@@ -1402,7 +1408,8 @@ ul li a:hover {
     font-size: 12px;
   }
   div.pbhead img {
-    height:35px;
+    max-width: 220px;
+    max-height:35px;
   }
   ul {
     margin-top: -20px;
@@ -1428,9 +1435,6 @@ ul li a:hover {
 }
 
 @media (min-width: 768px) and (max-width: 979px) {
-  a.recrutement {
-    width: 90%;
-  }
   .booksection #cover {
     float: none;
     width: 228px;
@@ -1451,9 +1455,6 @@ ul li a:hover {
   }
 }
 @media (max-width: 480px) {
-  a.recrutement {
-    width: 90%;
-  }
   .btn {
     width: 120px;
   }
