@@ -1215,9 +1215,11 @@ a.jsbookslinks {
   display: inline-block;
   margin: 0 0 20px 0;
 }
-.banner {
-  font: bold 11px 'Ubuntu', Helvetica, Arial, sans-serif;
-  text-transform: uppercase;
+.recrutement {
+  color: #3e3a37;
+  font-weight: bold;
+  padding: 10px 0;
+  margin: 20px auto;
   text-align: center;
   -webkit-transition-duration: .4s;
   -moz-transition-duration: .4s;
@@ -1225,25 +1227,18 @@ a.jsbookslinks {
   -o-transition-duration: .4s;
   transition-duration: .4s;
 }
-.banner a {
-  display: block;
-  text-decoration: underline;
-  margin: 20px 0;
+.recrutement:hover {
+  color: #3775a9;
+  text-decoration: none;
 }
-.banner a:hover {
-  color: #366d9a;
+.pythonbooks {
+  background-color: transparent;
+  margin: 0 0 30px;
 }
-.jsbooks {
-  text-align: center;
-  margin: 10px 0 30px;
+.pythonbooks > * {
+  display: inline;
+  margin-right: 10px;
 }
-a.jsbooks {
-  color: white;
-  background-color: #666;
-  padding: 10px 0;
-  border-radius: 3px;
-}
-
 .booksection {
   margin-bottom: 30px;
 }
@@ -1390,6 +1385,228 @@ ul li a:hover {
   font-size: 10px;
 }
 /* RESPONSIVE LAYOUT */
+
+@media (min-width: 1200px) {
+  .row {
+    margin-left: -30px;
+    *zoom: 1;
+  }
+  .row:before,
+  .row:after {
+    display: table;
+    content: "";
+  }
+  .row:after {
+    clear: both;
+  }
+  [class*="span"] {
+    float: left;
+    margin-left: 30px;
+  }
+  .container,
+  .navbar-fixed-top .container,
+  .navbar-fixed-bottom .container {
+    width: 1170px;
+  }
+  .span12 {
+    width: 1170px;
+  }
+  .span11 {
+    width: 1070px;
+  }
+  .span10 {
+    width: 970px;
+  }
+  .span9 {
+    width: 870px;
+  }
+  .span8 {
+    width: 770px;
+  }
+  .span7 {
+    width: 670px;
+  }
+  .span6 {
+    width: 570px;
+  }
+  .span5 {
+    width: 470px;
+  }
+  .span4 {
+    width: 370px;
+  }
+  .span3 {
+    width: 270px;
+  }
+  .span2 {
+    width: 170px;
+  }
+  .span1 {
+    width: 70px;
+  }
+  .offset12 {
+    margin-left: 1230px;
+  }
+  .offset11 {
+    margin-left: 1130px;
+  }
+  .offset10 {
+    margin-left: 1030px;
+  }
+  .offset9 {
+    margin-left: 930px;
+  }
+  .offset8 {
+    margin-left: 830px;
+  }
+  .offset7 {
+    margin-left: 730px;
+  }
+  .offset6 {
+    margin-left: 630px;
+  }
+  .offset5 {
+    margin-left: 530px;
+  }
+  .offset4 {
+    margin-left: 430px;
+  }
+  .offset3 {
+    margin-left: 330px;
+  }
+  .offset2 {
+    margin-left: 230px;
+  }
+  .offset1 {
+    margin-left: 130px;
+  }
+  .row-fluid {
+    width: 100%;
+    *zoom: 1;
+  }
+  .row-fluid:before,
+  .row-fluid:after {
+    display: table;
+    content: "";
+  }
+  .row-fluid:after {
+    clear: both;
+  }
+  .row-fluid [class*="span"] {
+    display: block;
+    width: 100%;
+    min-height: 28px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+    float: left;
+    margin-left: 2.564102564%;
+    *margin-left: 2.510911074638298%;
+  }
+  .row-fluid [class*="span"]:first-child {
+    margin-left: 0;
+  }
+  .row-fluid .span12 {
+    width: 100%;
+    *width: 99.94680851063829%;
+  }
+  .row-fluid .span11 {
+    width: 91.45299145300001%;
+    *width: 91.3997999636383%;
+  }
+  .row-fluid .span10 {
+    width: 82.905982906%;
+    *width: 82.8527914166383%;
+  }
+  .row-fluid .span9 {
+    width: 74.358974359%;
+    *width: 74.30578286963829%;
+  }
+  .row-fluid .span8 {
+    width: 65.81196581200001%;
+    *width: 65.7587743226383%;
+  }
+  .row-fluid .span7 {
+    width: 57.264957265%;
+    *width: 57.2117657756383%;
+  }
+  .row-fluid .span6 {
+    width: 48.717948718%;
+    *width: 48.6647572286383%;
+  }
+  .row-fluid .span5 {
+    width: 40.170940171000005%;
+    *width: 40.117748681638304%;
+  }
+  .row-fluid .span4 {
+    width: 31.623931624%;
+    *width: 31.5707401346383%;
+  }
+  .row-fluid .span3 {
+    width: 23.076923077%;
+    *width: 23.0237315876383%;
+  }
+  .row-fluid .span2 {
+    width: 14.529914530000001%;
+    *width: 14.4767230406383%;
+  }
+  .row-fluid .span1 {
+    width: 5.982905983%;
+    *width: 5.929714493638298%;
+  }
+  input,
+  textarea,
+  .uneditable-input {
+    margin-left: 0;
+  }
+  input.span12, textarea.span12, .uneditable-input.span12 {
+    width: 1160px;
+  }
+  input.span11, textarea.span11, .uneditable-input.span11 {
+    width: 1060px;
+  }
+  input.span10, textarea.span10, .uneditable-input.span10 {
+    width: 960px;
+  }
+  input.span9, textarea.span9, .uneditable-input.span9 {
+    width: 860px;
+  }
+  input.span8, textarea.span8, .uneditable-input.span8 {
+    width: 760px;
+  }
+  input.span7, textarea.span7, .uneditable-input.span7 {
+    width: 660px;
+  }
+  input.span6, textarea.span6, .uneditable-input.span6 {
+    width: 560px;
+  }
+  input.span5, textarea.span5, .uneditable-input.span5 {
+    width: 460px;
+  }
+  input.span4, textarea.span4, .uneditable-input.span4 {
+    width: 360px;
+  }
+  input.span3, textarea.span3, .uneditable-input.span3 {
+    width: 260px;
+  }
+  input.span2, textarea.span2, .uneditable-input.span2 {
+    width: 160px;
+  }
+  input.span1, textarea.span1, .uneditable-input.span1 {
+    width: 60px;
+  }
+  .thumbnails {
+    margin-left: -30px;
+  }
+  .thumbnails > li {
+    margin-left: 30px;
+  }
+  .row-fluid .thumbnails {
+    margin-left: 0;
+  }
+}
+
 @media (min-width: 980px) and (max-width: 1200px) {
   h2 {
     font-size: 14px;
@@ -1457,10 +1674,6 @@ ul li a:hover {
 @media (max-width: 480px) {
   .btn {
     width: 120px;
-  }
-  a.recrutement {
-    display: block;
-    width: 90%;
   }
   .booksection p.description {
     height: 96px;
