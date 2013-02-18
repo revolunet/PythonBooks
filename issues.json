@@ -270,6 +270,15 @@
         "cover": "img/pym.png"
     },
     {
+        "title": "Python course",
+        "author": "Patrick Fuchs / Pierre Poulain,",
+        "authorUrl": "http://www.dsimb.inserm.fr/~fuchs/python/python.html",
+        "level": "Beginner",
+        "info": "[FRENCH] Beginner and progressive course about Python theory and concepts",
+        "url": "http://www.dsimb.inserm.fr/~fuchs/python/python-node1.html",
+        "cover": "img/cover_python101.png"
+    },
+    {
         "title": "Data Structures and Algorithms with Object-Oriented Design Patterns in Python",
         "author": "Bruno R. Preiss",
         "authorUrl": "http://www.brpreiss.com",
@@ -277,6 +286,24 @@
         "info": "This book is about the fundamentals of data structures and algorithms. It uses object oriented design patterns and teaches topics like stacks, queues, lists, hashing and graphs. There are also versions for other programming languages.",
         "url": "http://www.brpreiss.com/books/opus7/",
         "cover": "img/cover_datastructandalg.png"
+    },
+    {
+        "title": "A bit of Python & other things.",
+        "author": "Jesse Noller",
+        "authorUrl": "http://jessenoller.com/",
+        "level": "Beginner",
+        "info": "A usefull page with good links to read about Python",
+        "url": "http://jessenoller.com/good-to-great-python-reads/",
+        "cover": "img/cover_jessenoller.png"
+    },
+    {
+        "title": "Python Course",
+        "author": "Google",
+        "authorUrl": "http://developers.google.com",
+        "level": "Beginner",
+        "info": "This is a free class for people with a little bit of programming experience who want to learn Python.",
+        "url": "https://developers.google.com/edu/python/",
+        "cover": "img/cover_googledevelopers.png"
     },
     {
         "title": "Porting to Python 3: An in-depth guide",
