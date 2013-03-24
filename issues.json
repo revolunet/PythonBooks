@@ -313,5 +313,14 @@
         "info": "This book guides you through the process of porting your Python 2 code to Python 3, from choosing a porting strategy to solving your distribution issues. Using plenty of code examples is takes you cross the hurdles and shows you the new Python features.",
         "url": "http://python3porting.com/",
         "cover": "img/cover_porting_python3.png"
+    },
+    {
+      "title":"Non-Programmer's Tutorial for Python 3",
+      "author":"Josh Cogliati/Wikibooks/Other contributors",
+      "authorUrl":"http://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3",
+      "level":"Beginner",
+      "info":"The Non-Programmers' Tutorial For Python 3 is a tutorial designed to be an introduction to the Python programming language. This guide is for someone with no programming experience.",
+      "url":"http://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3",
+      "cover":"img/cover_Python3-powered.png"
     }
 ]}
