@@ -331,5 +331,14 @@
       "info":"This opinionated guide exists to provide both novice and expert Python developers a best-practice handbook to the installation, configuration, and usage of Python on a daily basis.",
       "url":"http://python-guide.org/",
       "cover":"img/PythonGuide.png"
+    },
+    {
+      "title":"Probabilistic Programming and Bayesian Methods for Hackers: Using Python and PyMC",
+      "author":"Cam Davidson-Pilon and community",
+      "authorUrl":"http://www.camdp.com",
+      "level":"Intermediate",
+      "info":"aka 'Bayesian Methods for Hackers': An introduction to Bayesian methods + probabilistic programming in data analysis with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)",
+      "url":"https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
+      "cover":"img/BMH.png"
     }
 ]}
