@@ -340,5 +340,14 @@
       "info":"aka 'Bayesian Methods for Hackers': An introduction to Bayesian methods + probabilistic programming in data analysis with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)",
       "url":"https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
       "cover":"img/BMH.png"
+    },
+    {
+      "title":"web2py Complete Manual",
+      "author":"Massimo Di Pierro",
+      "authorUrl":"http://web2py.com",
+      "level":"Intermediate",
+      "info":"As you will learn in the following pages, web2py tries to lower the barrier of entry to web development by focusing on three main goals: ease of use, rapid development and security",
+      "url":"https://dl.dropboxusercontent.com/u/18065445/web2py/web2py_manual_5th.pdf",
+      "cover":"img/web2py.png"
     }
 ]}
