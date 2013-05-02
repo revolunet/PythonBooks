@@ -349,5 +349,14 @@
       "info":"As you will learn in the following pages, web2py tries to lower the barrier of entry to web development by focusing on three main goals: ease of use, rapid development and security",
       "url":"https://dl.dropboxusercontent.com/u/18065445/web2py/web2py_manual_5th.pdf",
       "cover":"img/web2py.png"
+    },
+    {
+      "title":"Hacking Secret Ciphers with Python",
+      "author":"Al Sweigart",
+      "authorUrl":"http://coffeeghost.net",
+      "level":"Beginner",
+      "info":"The book teaches complete beginners how to program in the Python programming language. The reader not only learns about several classical ciphers, but also how to write programs that encrypt and hack these ciphers.",
+      "url":"http://inventwithpython.com/hacking/index.html",
+      "cover":"img/hackingcyphers.png"
     }
 ]}
