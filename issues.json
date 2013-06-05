@@ -358,5 +358,15 @@
       "info":"The book teaches complete beginners how to program in the Python programming language. The reader not only learns about several classical ciphers, but also how to write programs that encrypt and hack these ciphers.",
       "url":"http://inventwithpython.com/hacking/index.html",
       "cover":"img/hackingcyphers.png"
+    },
+    {
+      "title":"Modeling Creativity",
+      "author":"Tom De Smedt",
+      "authorUrl":"http://www.organisms.be/",
+      "level":"Intermediate",
+      "info":"Case studies in Python - using the libraries nodebox and pattern the author creates wonderful fractals and infographics; python code snippets included",
+      "url":"http://bit.ly/modeling-creativity",
+      "cover":"img/modelingcreativity.png"
     }
+    
 ]}
