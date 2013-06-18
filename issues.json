@@ -376,6 +376,15 @@
       "info":"This book uses a concrete example—the development of a website, from scratch—to teach the TDD metholology, and how it applies to web programming, from the basics of database integration and javascript, going via browser-automation tools like Selenium, to advanced (and trendy) topics like NoSQL, websockets and Async programming.",
       "url":"http://chimera.labs.oreilly.com/books/1234000000754",
       "cover": "img/testdriven.jpg"
+    },
+    {
+      "title":"Invent Your Own Computer Games with Python,
+      "author":"Al Sweigart",
+      "authorUrl":"http://coffeeghost.net",
+      "level":"Intermediate",
+      "info":"Small and nice python game examples",
+      "url":"http://inventwithpython.com/chapters/",
+      "cover": "img/cover_inventgame.jpg"
     }
     
 ]}
