@@ -377,5 +377,15 @@
       "url":"http://chimera.labs.oreilly.com/books/1234000000754",
       "cover": "img/testdriven.jpg"
     }
+
+    {
+      "title":"Getting Started with Django",
+      "author":"Kenneth Love",
+      "authorUrl":"http://brack3t.com/",
+      "level":"Beginner",
+      "info":"Getting Started with Django (or GSWD) is a series of video-based lessons meant to take you from novice to competent [1], or maybe even beyond.",
+      "url":"http://gettingstartedwithdjango.com/",
+      "cover": "img/cover_gettingstartedwithdjango.jpg"
+    }
     
 ]}
