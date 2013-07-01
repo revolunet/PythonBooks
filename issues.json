@@ -385,6 +385,15 @@
       "info":"Getting Started with Django (or GSWD) is a series of video-based lessons meant to take you from novice to competent [1], or maybe even beyond.",
       "url":"http://gettingstartedwithdjango.com/",
       "cover": "img/cover_gettingstartedwithdjango.jpg"
+    },
+    {
+      "title":"Python 3x Programming (sample)",
+      "author":"Jody S. Ginther",
+      "authorUrl":"http://www.toonzcat.com/book.html",
+      "level":"Beginner",
+      "info":"(4 free chapters) Python 3x Programming, Made Fun and Easier by Jody S. Ginther is for the beginning programmer who wants to learn visually and have some fun while learning programming. The full course will take the beginner from ground zero to making their own arcade style game complete with; music, sound, graphics, and how to make a distribution package to share it with your friends in 21 lessons.",
+      "url":" http://www.toonzcat.com/media/pythonfree.pdf",
+      "cover": "img/py3programming.png"
     }
     
 ]}
