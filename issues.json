@@ -394,6 +394,15 @@
       "info":"(4 free chapters) Python 3x Programming, Made Fun and Easier by Jody S. Ginther is for the beginning programmer who wants to learn visually and have some fun while learning programming. The full course will take the beginner from ground zero to making their own arcade style game complete with; music, sound, graphics, and how to make a distribution package to share it with your friends in 21 lessons.",
       "url":" http://www.toonzcat.com/media/pythonfree.pdf",
       "cover": "img/py3programming.png"
+    },
+    {
+      "title":"Djen of Django",
+      "author":"Agiliq",
+      "authorUrl":"http://agiliq.com/",
+      "level":"Intermediate",
+      "info":"Djen of Django is a book consisting of a series of small Django projects based on small real-world examples. For instance, building a Pastebin, a Blog or a Project Management Application. Djen of Django focuses on teaching the reader Django best practices through the use of real-world examples.",
+      "url":"http://agiliq.com/books/djenofdjango/",
+      "cover": "img/djenofdjango.png"
     }
     
 ]}
