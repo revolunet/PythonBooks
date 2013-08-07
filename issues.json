@@ -9,12 +9,12 @@
         "cover": "img/cover_pypd_2ed_th.jpg"
     },
     {
-        "title": "How to Think Like a Computer Scientist: Interactive Edition",
+        "title": "How to Think Like a Computer Scientist: Second Interactive Edition",
         "author": "B. Miller & D. Ranum",
         "authorUrl": "http://reputablejournal.com",
         "level": "Beginner",
         "info": "This interactive book teaches you Python the interactive way, right in the browser.",
-        "url": "http://interactivepython.org/courselib/static/thinkcspy/index.html",
+        "url": "http://interactivepython.org/runestone/static/thinkcspy/index.html",
         "cover": "img/runestone.png"
     },
     {
@@ -23,7 +23,7 @@
         "authorUrl": "http://reputablejournal.com/",
         "level": "Intermediate",
         "info": "This book is a CS2 data structures textbook, with a review of Python concepts in chapter 1",
-        "url": "http://interactivepython.org/courselib/static/pythonds/index.html",
+        "url": "http://interactivepython.org/runestone/static/pythonds/index.html",
         "cover": "img/PythonDScover.png"
     },
     {
