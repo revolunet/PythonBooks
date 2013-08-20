@@ -59,7 +59,7 @@
         "authorUrl": "http://www.greenteapress.com/",
         "level": "Beginner",
         "info": "A very exhaustive book covering most of the language features, from datatypes to OOP and debugging.",
-        "url": "http://www.greenteapress.com/thinkpython/thinkCSpy/thinkCSpy.pdf",
+        "url": "http://www.greenteapress.com/thinkpython/thinkpython.pdf",
         "cover": "img/cover_thinkpython.jpg"
     },
     {
