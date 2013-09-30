@@ -403,6 +403,14 @@
       "info":"Djen of Django is a book consisting of a series of small Django projects based on small real-world examples. For instance, building a Pastebin, a Blog or a Project Management Application. Djen of Django focuses on teaching the reader Django best practices through the use of real-world examples.",
       "url":"http://agiliq.com/books/djenofdjango/",
       "cover": "img/djenofdjango.jpg"
+    },
+    {
+      "title":"Python para todos",
+      "author":"Raúl González Duque",
+      "authorUrl":"http://mundogeek.net/",
+      "level":"Beginner",
+      "info":"[SPANISH] Libro sobre programación en Python a modo de tutorial, adecuado para todos los niveles de aprendizaje, desde novatos hasta expertos que quieren conocer más sobre Python.",
+      "url":"http://mundogeek.net/tutorial-python/",
+      "cover": "img/tutorial-python.jpg"
     }
-    
 ]}
