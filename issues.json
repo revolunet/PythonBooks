@@ -412,5 +412,14 @@
       "info":"[SPANISH] Libro sobre programación en Python a modo de tutorial, adecuado para todos los niveles de aprendizaje, desde novatos hasta expertos que quieren conocer más sobre Python.",
       "url":"http://mundogeek.net/tutorial-python/",
       "cover": "img/tutorial-python.jpg"
+    },
+    {
+      "title":"A Programmer's Guide to Data Mining",
+      "author":"Ron Zacharski",
+      "authorUrl":"http://zacharski.org/",
+      "level":"Intermediate",
+      "info":"A guide to practical data mining, collective intelligence, and building recommendation systems.",
+      "url":"http://guidetodatamining.com/",
+      "cover": "img/cover_guidetodatamining.png"
     }
 ]}
