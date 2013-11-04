@@ -412,5 +412,14 @@
       "info":"[SPANISH] Libro sobre programación en Python a modo de tutorial, adecuado para todos los niveles de aprendizaje, desde novatos hasta expertos que quieren conocer más sobre Python.",
       "url":"http://mundogeek.net/tutorial-python/",
       "cover": "img/tutorial-python.jpg"
+    },
+    {
+      "title":"Python in Hydrology",
+      "author":"Sat Kumar Tomer",
+      "authorUrl":"http://www.greenteapress.com/pythonhydro/pythonhydro.html",
+      "level":"Beginner",
+      "info":"Python in Hydrology is written for learning Python using its applications in hydrology. The book covers the basic applications of hydrology, and also the advanced topic like use of copula.",
+      "url":"http://www.greenteapress.com/pythonhydro/pythonhydro.pdf",
+      "cover": "img/cover_python_in_hydrology.jpg"
     }
 ]}
