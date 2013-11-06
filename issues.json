@@ -421,5 +421,14 @@
       "info":"Python in Hydrology is written for learning Python using its applications in hydrology. The book covers the basic applications of hydrology, and also the advanced topic like use of copula.",
       "url":"http://www.greenteapress.com/pythonhydro/pythonhydro.pdf",
       "cover": "img/cover_python_in_hydrology.jpg"
+    },
+    {
+      "title":"A Programmer's Guide to Data Mining",
+      "author":"Ron Zacharski",
+      "authorUrl":"http://zacharski.org/",
+      "level":"Intermediate",
+      "info":"A guide to practical data mining, collective intelligence, and building recommendation systems.",
+      "url":"http://guidetodatamining.com/",
+      "cover": "img/cover_guidetodatamining.png"
     }
 ]}
