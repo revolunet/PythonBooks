@@ -430,5 +430,14 @@
       "info":"A guide to practical data mining, collective intelligence, and building recommendation systems.",
       "url":"http://guidetodatamining.com/",
       "cover": "img/cover_guidetodatamining.png"
+    },
+    {
+      "title":"Invent Your Own Computer Games with Python",
+      "author":"Al Sweigart",
+      "authorUrl":"http://coffeeghost.net",
+      "level":"Intermediate",
+      "info":"Small and nice python game examples",
+      "url":"http://inventwithpython.com/chapters/",
+      "cover": "img/cover_inventgame.jpg"
     }
 ]}
