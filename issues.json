@@ -1,4 +1,4 @@
-{ "books" : [
+﻿{ "books" : [
     {
         "title": "Python para Desenvolvedores (2nd Edition)",
         "author": "Luiz Eduardo Borges",
@@ -439,5 +439,14 @@
       "info":"Small and nice python game examples",
       "url":"http://inventwithpython.com/chapters/",
       "cover": "img/cover_inventgame.jpg"
+    },
+    {
+      "title":"Biopython",
+      "author":"Jeff Chang, Brad Chapman, Iddo Friedberg, Thomas Hamelryck, Michiel de Hoon, Peter Cock, Tiago Antao, Eric Talewich, Bartek Wilcznski",
+      "authorUrl":"http://biopython.org/wiki/Main_Page",
+      "level":"Intermediate",
+      "info":"This is a tutorial and cookbook for Biopython (Biopython is a set of freely available toos for biological computations.",
+      "url":"http://biopython.org/DIST/docs/tutorial/Tutorial.pdf",
+      "cover": "img/cover_biopython.jpg"
     }
 ]}
