@@ -442,7 +442,7 @@
     },
     {
       "title":"Biopython",
-      "author":"Jeff Chang, Brad Chapman, Iddo Friedberg, Thomas Hamelryck, Michiel de Hoon, Peter Cock, Tiago Antao, Eric Talewich, Bartek Wilcznski",
+      "author":"Various authors",
       "authorUrl":"http://biopython.org/wiki/Main_Page",
       "level":"Intermediate",
       "info":"This is a tutorial and cookbook for Biopython (Biopython is a set of freely available toos for biological computations.",
