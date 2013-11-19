@@ -1,6 +1,6 @@
 # PythonBooks
 
-PythonBooks is a showcase of the bests free ebooks about Python.
+PythonBooks is a showcase of the best free ebooks about Python.
 
 Learn Python, discover new fields, and muscle your brain for free !
 
@@ -26,7 +26,7 @@ Thanks per advance !
 
 Historically, this project was supposed to be an experimental Apple 'NewsStand' application.
 
-After some weeks of work, we discovered that having a functionnal application wasn't enough.
+After some weeks of work, we discovered that having a functional application wasn't enough.
 
 You also have to follow various Apple guidelines and use some Apple libraries to be 'NewsStand' compatible.
 
