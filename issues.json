@@ -448,5 +448,14 @@
       "info":"This is a tutorial and cookbook for Biopython (Biopython is a set of freely available toos for biological computations.",
       "url":"http://biopython.org/DIST/docs/tutorial/Tutorial.pdf",
       "cover": "img/cover_biopython.jpg"
+    },
+    {
+      "title":"Text Processing in Python",
+      "author":"David Mertz",
+      "authorUrl":"http://gnosis.cx/TPiP/",
+      "level":"Intermediate",
+      "info":"This is an example-driven, hands on tutorial that carefully teaches programmers how to accomplish numerous text processing tasks using Python.",
+      "url":"http://gnosis.cx/TPiP/",
+      "cover": "img/cover_text_processing_in_python.jpg"
     }
 ]}
