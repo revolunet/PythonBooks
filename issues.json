@@ -464,7 +464,7 @@
       "authorUrl":"http://leifos.me",
       "level":"Beginner",
       "info":"A beginner's guide to web development with Django 1.5.4. This book has been designed to get you going fast and to learn by example. You'll learn the key aspects of the Python Django Framework by developing an application called Rango.",
-      "url":"http://http://www.tangowithdjango.com",
+      "url":"http://www.tangowithdjango.com",
       "cover": "img/cover_tangowithdjango.jpg"
     }
 ]}
