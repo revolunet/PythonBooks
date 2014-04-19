@@ -466,5 +466,14 @@
       "info":"A beginner's guide to web development with Django 1.5.4. This book has been designed to get you going fast and to learn by example. You'll learn the key aspects of the Python Django Framework by developing an application called Rango.",
       "url":"http://www.tangowithdjango.com",
       "cover": "img/cover_tangowithdjango.jpg"
+    },
+	{
+      "title":"Python Practice Book",
+      "author":"Anand Chitipothu.",
+      "authorUrl":"http://anandology.com/",
+      "level":"Beginner",
+      "info":"This book is prepared from the training notes of Anand Chitipothu. Anand conducts Python trainings classes on a semi-regular basis in Bangalore, India.",
+      "url":"http://anandology.com/python-practice-book/index.html",
+      "cover": "img/cover_python_practice_book.png"
     }
 ]}
