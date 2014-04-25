@@ -475,5 +475,14 @@
       "info":"This book is prepared from the training notes of Anand Chitipothu. Anand conducts Python trainings classes on a semi-regular basis in Bangalore, India.",
       "url":"http://anandology.com/python-practice-book/index.html",
       "cover": "img/cover_python_practice_book.png"
+    },
+    {
+      "title":"Python Cookbook, Third Edition",
+      "author":"Various authors",
+      "authorUrl":"http://chimera.labs.oreilly.com/books/1230000000393",
+      "level":"Intermediate",
+      "info":"This book is aimed at more experienced Python programmers who are looking to deepen their understanding of the language and modern programming idioms.",
+      "url":"http://chimera.labs.oreilly.com/books/1230000000393/index.html",
+      "cover": "img/cover_python_cookbook.png"
     }
 ]}
