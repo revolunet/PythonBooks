@@ -484,5 +484,14 @@
       "info":"This book is aimed at more experienced Python programmers who are looking to deepen their understanding of the language and modern programming idioms.",
       "url":"http://chimera.labs.oreilly.com/books/1230000000393/index.html",
       "cover": "img/cover_python_cookbook.jpg"
+    },
+    {
+      "title":"Explore Flask",
+      "author":"Robert Picard.",
+      "authorUrl":"http://robert.io",
+      "level":"Intermediate",
+      "info":"This book is a collection of the best practices for using Flask. There are a lot of pieces to the average Flask application.",
+      "url":"http://exploreflask.com",
+      "cover": "img/exploreflask.png"
     }
 ]}
