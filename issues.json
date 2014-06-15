@@ -167,7 +167,7 @@
         "authorUrl": "https://sites.google.com/site/naturallanguagetoolkit/book",
         "level": "Advanced",
         "info": "Practical introduction to programming for language processing, written by the creators of NLTK.",
-        "url": "http://nltk.org/book/",
+        "url": "http://www.nltk.org/book/",
         "cover": "img/cover_nltk.jpg"
     },
     {
