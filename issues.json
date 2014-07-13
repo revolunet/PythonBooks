@@ -493,8 +493,8 @@
       "info":"This book is a collection of the best practices for using Flask. There are a lot of pieces to the average Flask application.",
       "url":"http://exploreflask.com",
       "cover": "img/exploreflask.png"
-    }
-{
+    },
+    {
       "title":"Learning Python, 4th Edition",
       "author":"Mark Lutz",
       "authorUrl":"http://learning-python.com/index.html",
