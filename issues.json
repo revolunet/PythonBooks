@@ -494,4 +494,13 @@
       "url":"http://exploreflask.com",
       "cover": "img/exploreflask.png"
     }
+{
+      "title":"Learning Python, 4th Edition",
+      "author":"Mark Lutz",
+      "authorUrl":"http://learning-python.com/index.html",
+      "level":"Beginner",
+      "info":" It's an easy-to-follow self-paced tutorial, based on author and Python expert Mark Lutz's popular training course.",
+      "url":"http://it-ebooks.info/book/304/",
+      "cover":"img/learn4.jpg"
+    }
 ]}
