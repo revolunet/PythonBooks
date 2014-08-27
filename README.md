@@ -26,13 +26,13 @@ Thanks per advance !
 
 Historically, this project was supposed to be an experimental Apple 'NewsStand' application.
 
-After some weeks of work, we discovered that having a functionnal application wasn't enough.
+After some weeks of work, we discovered that having a functional application wasn't enough.
 
 You also have to follow various Apple guidelines and use some Apple libraries to be 'NewsStand' compatible.
 
 So we decided to go full web and this move gave the project a much wider audience.
 
-Thanks Apple to give us this opportunity :)
+Thanks Apple for giving us this opportunity :)
 
 
 ## Licence
