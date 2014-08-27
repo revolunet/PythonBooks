@@ -32,7 +32,7 @@ You also have to follow various Apple guidelines and use some Apple libraries to
 
 So we decided to go full web and this move gave the project a much wider audience.
 
-Thanks Apple to give us this opportunity :)
+Thanks Apple for giving us this opportunity :)
 
 
 ## Licence
