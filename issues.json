@@ -1,4 +1,24 @@
 ﻿{ "books" : [
+
+    {
+        "title": "Functional Programming in Python",
+        "author": "David Mertz",
+        "authorUrl": "http://www.oreilly.com/programming/free/functional-programming-python.csp",
+        "level": "Intermediate",
+        "info": "In this paper, David Mertz, a director of Python Software Foundation, examines the functional aspects of the language and points out which options work well and which ones you should generally decline.",
+        "url": "http://www.oreilly.com/programming/free/files/functional-programming-python.pdf",
+        "cover": "img/cover_functional_programming_in_python.gif"
+    },
+
+    {
+        "title": "Picking a Python Version: A Manifesto",
+        "author": "David Mertz",
+        "authorUrl": "http://www.oreilly.com/programming/free/from-future-import-python.csp",
+        "level": "Beginner",
+        "info": "This report guides you through the implicit decision tree of choosing what Python version, implementation, and distribution is best suited for you.",
+        "url": "http://www.oreilly.com/programming/free/files/from-future-import-python.pdf",
+        "cover": "img/cover_picking_python_version_manifesto.gif"
+    },
     {
         "title": "Python para Desenvolvedores (2nd Edition)",
         "author": "Luiz Eduardo Borges",
