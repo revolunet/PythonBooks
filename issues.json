@@ -531,5 +531,14 @@
       "info":" It's an easy-to-follow self-paced tutorial, based on author and Python expert Mark Lutz's popular training course.",
       "url":"http://it-ebooks.info/book/304/",
       "cover":"img/learn4.jpg"
+    },
+    {
+      "title":"VIOLENT PYTHON",
+      "author":"TJ O’Connor",
+      "authorUrl":"http://ebook-dl.com/item/violent_python_a_cookbook_for_hackers_forensic_analysts_penetration_tj_o_connor/",
+      "level":"Intermediate",
+      "info":"A COOKBOOK FOR HACKERS, FORENSIC ANALYSTS, PENETRATION TESTERS AND SECURITY ENGINEERS.",
+      "url":"http://ebook-dl.com/item/violent_python_a_cookbook_for_hackers_forensic_analysts_penetration_tj_o_connor/",
+      "cover":"img/violent_python.jpg"
     }
 ]}
