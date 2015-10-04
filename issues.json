@@ -1,6 +1,96 @@
 ﻿{ "books" : [
 
-    {
+  {
+      "title": "Python Cookbook, 2nd Edition",
+      "author": "Alex Martelli",
+      "authorUrl": "https://it-ebooks.info/author/1734/",
+      "level": "Beginner",
+      "info": "Portable, powerful, and a breeze to use, Python is the popular open source object-oriented programming language used for both standalone programs and scripting applications. It is now being used by an increasing number of major organizations, including NASA and Google.",
+      "url": "https://it-ebooks.info/book/2250/",
+      "cover": "img/python_cookbook_2nd_edition.jpg"
+  },
+  {
+      "title": "Python Text Processing with NLTK 2.0 Cookbook",
+      "author": "Jacob Perkins",
+      "authorUrl": "https://it-ebooks.info/author/2543/",
+      "level": "Advanced",
+      "info": "Natural Language Processing is used everywhere - in search engines, spell checkers, mobile phones, computer games - even your washing machine. Python's Natural Language Toolkit (NLTK) suite of libraries has rapidly emerged as one of the most efficient tools for Natural Language Processing. You want to employ nothing less than the best techniques in Natural Language Processing - and this book is your answer.",
+      "url": "https://it-ebooks.info/book/1950/",
+      "cover": "img/python_text_processing_with_nltk_2.0_cookbook.jpg"
+  },
+  {
+      "title": "Python Algorithms",
+      "author": "Magnus Lie Hetland",
+      "authorUrl": "https://it-ebooks.info/author/2360/",
+      "level": "Beginner",
+      "info": "Python Algorithms explains the Python approach to algorithm analysis and design. Written by Magnus Lie Hetland, author of Beginning Python, this book is sharply focused on classical algorithms, but it also gives a solid understanding of fundamental algorithmic problem-solving techniques.",
+      "url": "https://it-ebooks.info/book/1941/",
+      "cover": "img/python_algorithms.jpg"
+  },
+  {
+      "title": "Foundations of Python Network Programming, 2nd Edition",
+      "author": "Brandon Rhodes",
+      "authorUrl": "https://it-ebooks.info/author/2362/",
+      "level": "Intermediate",
+      "info": "You will learn fundamentals like IP, TCP, DNS and SSL by using working Python programs; you will also be able to familiarize yourself with infrastructure components like memcached and message queues. You can also delve into network server designs, and compare threaded approaches with asynchronous event-based solutions.",
+      "url": "https://it-ebooks.info/book/1796/",
+      "cover": "img/foundations_of_python_network_programming_2nd_edition.jpg"
+  },
+  {
+      "title": "Python",
+      "author": "James O. Knowlton",
+      "authorUrl": "https://it-ebooks.info/author/1957/",
+      "level": "Beginner",
+      "info": "Python: Create-Modify-Reuse is designed for all levels of Python developers interested in a practical, hands-on way of learning Python development. This book is designed to show you how to use Python (in combination with the raw processing power of your computer) to accomplish real-world tasks in a more efficient way. Don't look for an exhaustive description of the Python language - you won't find it. The book's main purpose is not to thoroughly cover the Python language, but rather to show how you can use Python to create robust, real-world applications.",
+      "url": "https://it-ebooks.info/book/1460/",
+      "cover": "img/python.jpg"
+  },
+  {
+      "title": "Programming in Python 3, 2nd Edition",
+      "author": "Mark Summerfield",
+      "authorUrl": "https://it-ebooks.info/author/936/",
+      "level": "Beginner",
+      "info": "It is more powerful, convenient, consistent, and expressive than ever before. Now, leading Python programmer Mark Summerfield demonstrates how to write code that takes full advantage of Python 3's features and idioms. Programming in Python 3, Second Edition, brings together all the knowledge you need to write any program, use any standard or third-party Python 3 library, and create new library modules of your own. Summerfield draws on his many years of Python experience to share deep insights into Python 3 development you won't find anywhere else.",
+      "url": "https://it-ebooks.info/book/1275/",
+      "cover": "img/programming_in_python_3_2nd_edition.jpg"
+  },
+  {
+      "title": "Beginning Python",
+      "author": "James Payne",
+      "authorUrl": "https://it-ebooks.info/author/1509/",
+      "level": "Beginner",
+      "info": "As an open source, object-oriented programming language, Python is easy to understand, extendable, and user-friendly. This book covers every aspect of Python so that you can get started writing your own programs with Python today. Author James Payne begins with the most basic concepts of the Python language - placing a special focus on the 2.6 and 3.1 versions - and he offers an in-depth look at existing Python programs so you can learn by example. Topics progress from strings, lists, and dictionaries to classes, objects, and modules. With this book, you will learn how to quickly and confidently create a robust, reliable, and reusable Python application.",
+      "url": "https://it-ebooks.info/book/1162/",
+      "cover": "img/beginning_python.jpg"
+  },
+  {
+      "title": "Python and AWS Cookbook",
+      "author": "Mitch Garnaat",
+      "authorUrl": "https://it-ebooks.info/author/1032/",
+      "level": "Intermediate",
+      "info": "If you intend to use Amazon Web Services (AWS) for remote computing and storage, Python is an ideal programming language for developing applications and controlling your cloud-based infrastructure. This cookbook gets you started with more than two dozen recipes for using Python with AWS, based on the author's boto library.",
+      "url": "https://it-ebooks.info/book/542/",
+      "cover": "img/python_and_aws_cookbook.jpg"
+  },
+  {
+      "title": "Python for Unix and Linux System Administration",
+      "author": "Noah Gift",
+      "authorUrl": "https://it-ebooks.info/author/1063/",
+      "level": "Intermediate",
+      "info": "Python is an ideal language for solving problems, especially for Linux and Unix. With this pragmatic book, administrators can review various tasks that often occur in the management of these systems, and learn how Python can provide a more efficient way to handle them. Once you finish this book, you'll be able to develop your own set of command-line utilities with Python to tackle a wide range of problems.",
+      "url": "https://it-ebooks.info/book/172/",
+      "cover": "img/python_for_unix_and_linux_system_administration.jpg"
+  },
+  {
+      "title": "Python Pocket Reference, 4th Edition",
+      "author": "Mark Lutz",
+      "authorUrl": "https://it-ebooks.info/author/927/",
+      "level": "Beginner",
+      "info": "Python Pocket Reference, 4th Edition 	Python Pocket Reference, 4th EditionThis is the book to reach for when you're coding on the fly and need an answer now. It's an easy-to-use reference to the core language, with descriptions of commonly used modules and toolkits, and a guide to recent changes, new features, and upgraded built-ins -- all updated to cover Python 3.x as well as version 2.6. You'll also quickly find exactly what you need with the handy index.",
+      "url": "https://it-ebooks.info/book/171/",
+      "cover": "img/python_pocket_reference_fourth_edition.jpg"
+  },
+  {
         "title": "Functional Programming in Python",
         "author": "David Mertz",
         "authorUrl": "http://www.oreilly.com/programming/free/functional-programming-python.csp",
