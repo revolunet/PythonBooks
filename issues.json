@@ -522,5 +522,14 @@
       "info":"This book is a collection of the best practices for using Flask. There are a lot of pieces to the average Flask application.",
       "url":"http://exploreflask.com",
       "cover": "img/exploreflask.png"
+    },    
+    {
+      "title":"Django Girls Tutorial",
+      "author":"Community",
+      "authorUrl":"https://djangogirls.org/",
+      "level":"Beginner",
+      "info":"It's a very beginner-friendly tutorial with introductions to the command line, Python, Django, HTML and CSS. ",
+      "url":"https://www.gitbook.com/book/djangogirls/djangogirls-tutorial/details",
+      "cover": "img/cover_djangogirls_tutorial.jpg"
     }
 ]}
