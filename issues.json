@@ -1,6 +1,16 @@
 ﻿{ "books" : [
 
     {
+        "title": "How to Make Mistakes in Python",
+        "author": "Mike Pirnat",
+        "authorUrl": "http://mike.pirnat.com/",
+        "level": "Intermediate",
+        "info": "Even the best programmers make mistakes. In this O’Reilly report, Mike Pirnat dissects some of his most memorable blunders, peeling them back layer-by-layer to reveal just what went wrong.",
+        "url": "http://www.oreilly.com/programming/free/files/how-to-make-mistakes-in-python.pdf",
+        "cover": "img/cover_how_to_make_mistakes_in_python.gif"
+    },
+
+    {
         "title": "Functional Programming in Python",
         "author": "David Mertz",
         "authorUrl": "http://www.oreilly.com/programming/free/functional-programming-python.csp",
