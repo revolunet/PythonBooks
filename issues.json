@@ -542,4 +542,13 @@
       "url":"https://www.gitbook.com/book/djangogirls/djangogirls-tutorial/details",
       "cover": "img/cover_djangogirls_tutorial.jpg"
     }
+    {
+      "title":"Beginning Programming with Python For Dummies",
+      "author":"John Paul Mueller",
+      "authorUrl":"http://www.dummies.com/",
+      "level":"Beginner",
+      "info":"Learn to speak the language of Python and understand its syntax",
+      "url":"https://pythoniacs.files.wordpress.com/2016/10/beginning-programming-with-python-for-dummies.pdf",
+      "cover": "img/beginning_py_for_dummies.jpg"
+    }
 ]}
