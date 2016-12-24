@@ -57,6 +57,15 @@
         "cover": "img/runestone.png"
     },
     {
+        "title": "How to Think Like a Computer Scientist: Learning with Python 2nd Ed.",
+        "author": "Jeffrey Elkner, Allen B. Downey, Chris Meyers",
+        "authorUrl": "http://greenteapress.com/",
+        "level": "Beginner",
+        "info": "This book teaches you Python right in the browser.",
+        "url": "http://www.openbookproject.net/thinkcs/python/english2e/",
+        "cover": "img/gasp_lessons.png"
+    },
+    {
         "title": "Problem Solving with Algorithms and Data Structures Using Python",
         "author": "B. Miller & D. Ranum",
         "authorUrl": "http://reputablejournal.com/",
@@ -377,7 +386,7 @@
       "authorUrl":"http://www.camdp.com",
       "level":"Intermediate",
       "info":"aka 'Bayesian Methods for Hackers': An introduction to Bayesian methods + probabilistic programming in data analysis with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)",
-      "url":"https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",   
+      "url":"https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",���
       "cover":"img/BMH.png"
     },
     {
