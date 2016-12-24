@@ -1,4 +1,4 @@
-﻿{ "books" : [
+{ "books" : [
 
     {
         "title": "How to Make Mistakes in Python",
@@ -194,7 +194,7 @@
     {
         "title": "Snake Wrangling for Kids",
         "author": "Jason R. Briggs",
-        "authorUrl": "http://www.briggs.net.nz/snake-wrangling-for-kids.html",
+        "authorUrl": "http://jasonrbriggs.com",
         "level": "Beginner",
         "info": "[DOWNLOAD REQUIRED] For children 8 years and older, who would like to learn computer programming. It covers the very basics of programming, and uses the Python programming language to teach the concepts.",
         "url": "http://www.briggs.net.nz/snake-wrangling-for-kids.html",
@@ -203,7 +203,7 @@
     {
         "title": "Programming Computer Vision with Python",
         "author": "Jan Erik Solem",
-        "authorUrl": "http://programmingcomputervision.com/",
+        "authorUrl": "http://www.janeriksolem.net/",
         "level": "Advanced",
         "info": "[PDF DRAFT] This book gives an entry point to hands-on computer vision (images, videos...) with enough understanding of the underlying theory and algorithms.",
         "url": "http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf",
@@ -212,7 +212,7 @@
     {
         "title": "Natural Language Processing with Python",
         "author": "S. Bird, E. Klein & E. Loper",
-        "authorUrl": "https://sites.google.com/site/naturallanguagetoolkit/book",
+        "authorUrl": "http://www.nltk.org/",
         "level": "Advanced",
         "info": "Practical introduction to programming for language processing, written by the creators of NLTK.",
         "url": "http://www.nltk.org/book/",
@@ -224,7 +224,7 @@
         "authorUrl": "http://www.greenteapress.com/",
         "level": "Advanced",
         "info": "This book is about complexity science, data structures and algorithms, intermediate programming in Python, and the philosophy of science.",
-        "url": "http://greenteapress.com/complexity/html/index.html",
+        "url": "http://www.greenteapress.com/complexity/thinkcomplexity.pdf",
         "cover": "img/cover_complexity.jpg"
     },
     {
@@ -233,7 +233,16 @@
         "authorUrl": "http://www.greenteapress.com/",
         "level": "Advanced",
         "info": "Think Stats is an introduction to Probability and Statistics for Python programmers.",
-        "url": "http://greenteapress.com/thinkstats/html/index.html",
+        "url": "http://greenteapress.com/thinkstats/thinkstats.pdf",
+        "cover": "img/cover_stats.jpg"
+    },
+    {
+        "title": "Think Stats 2e",
+        "author": "Allen B. Downey",
+        "authorUrl": "http://www.greenteapress.com/",
+        "level": "Advanced",
+        "info": "Think Stats is an introduction to Probability and Statistics for Python programmers.",
+        "url": "http://greenteapress.com/thinkstats2/thinkstats2.pdf",
         "cover": "img/cover_stats.jpg"
     },
     {
@@ -242,13 +251,13 @@
         "authorUrl": "http://www.doughellmann.com/",
         "level": "Intermediate",
         "info": "The Python Module of the Week series, or PyMOTW, is a tour of the Python standard library through short and concrete examples. It covers more than 50 modules.",
-        "url": "http://www.doughellmann.com/PyMOTW/contents.html",
+        "url": "https://pymotw.com/2/contents.html",
         "cover": "img/cover_pymotw.png"
     },
     {
         "title": "An introduction to Python",
         "author": "John C. Lusth",
-        "authorUrl": "http://beastie.cs.ua.edu/cs150/book/index.html",
+        "authorUrl": "http://lusth.cs.ua.edu/",
         "level": "Beginner",
         "info": "A complete scholar overview of all Python 3 functionnalities from the Alabama University.",
         "url": "http://beastie.cs.ua.edu/cs150/book/index.html",
@@ -256,8 +265,8 @@
     },
     {
         "title": "Building skills in Programming",
-        "author": "Steven F. Lot ",
-        "authorUrl": "http://homepage.mac.com/s_lott/",
+        "author": "Steven F. Lot",
+        "authorUrl": "http://www.itmaybeahack.com",
         "level": "Beginner",
         "info": "How do you learn to program? Through a series of simple exercises that teach programming fundamentals with an easy-to-use, easy-to-learn programming language.",
         "url": "http://www.itmaybeahack.com/homepage/books/nonprog/html/index.html",
@@ -266,7 +275,7 @@
     {
         "title": "Building skills in Python",
         "author": "Steven F. Lot ",
-        "authorUrl": "http://homepage.mac.com/s_lott/",
+        "authorUrl": "http://www.itmaybeahack.com",
         "level": "Beginner",
         "info": "This 450+ page book has 42 chapters that will help you build Python programming skills through a series of exercises. This book includes six projects from straight-forward to sophisticated that will help solidify your Python skills.",
         "url": "http://www.itmaybeahack.com/book/python-2.6/html/index.html",
@@ -283,7 +292,7 @@
     },
     {
         "title": "Python Scientific lecture notes",
-        "author": "by the community",
+        "author": "By The Community",
         "authorUrl": "http://scipy-lectures.github.com/AUTHORS.html",
         "level": "Intermediate",
         "info": "Teaching material on the scientific Python ecosystem, a quick introduction to central tools and techniques. The different chapters each correspond to a 1 to 2 hours course with increasing level of expertise, from beginner to expert.",
@@ -314,16 +323,16 @@
         "authorUrl": "http://kushaldas.in",
         "level": "Beginner",
         "info": "A book for the total new comers into Python world. Was started as book for students before they read Python tutorial.",
-        "url": "http://kushal.fedorapeople.org/book/",
+        "url": "http://pymbook.readthedocs.io/en/latest/",
         "cover": "img/pym.png"
     },
     {
         "title": "Python course",
         "author": "Patrick Fuchs / Pierre Poulain,",
-        "authorUrl": "http://www.dsimb.inserm.fr/~fuchs/python/python.html",
+        "authorUrl": "http://www.dsimb.inserm.fr/~fuchs/",
         "level": "Beginner",
         "info": "[FRENCH] Beginner and progressive course about Python theory and concepts",
-        "url": "http://www.dsimb.inserm.fr/~fuchs/python/python-node1.html",
+        "url": "http://www.dsimb.inserm.fr/~fuchs/python/cours_python.pdf",
         "cover": "img/cover_python101.png"
     },
     {
@@ -332,7 +341,7 @@
         "authorUrl": "http://www.brpreiss.com",
         "level": "Intermediate",
         "info": "This book is about the fundamentals of data structures and algorithms. It uses object oriented design patterns and teaches topics like stacks, queues, lists, hashing and graphs. There are also versions for other programming languages.",
-        "url": "http://www.brpreiss.com/books/opus7/",
+        "url": "http://www.brpreiss.com/books/opus7/html/book.html",
         "cover": "img/cover_datastructandalg.png"
     },
     {
@@ -359,7 +368,7 @@
         "authorUrl": "http://regebro.wordpress.com/",
         "level": "Intermediate",
         "info": "This book guides you through the process of porting your Python 2 code to Python 3, from choosing a porting strategy to solving your distribution issues. Using plenty of code examples is takes you cross the hurdles and shows you the new Python features.",
-        "url": "http://python3porting.com/",
+        "url": "http://python3porting.com/pdfs/SupportingPython3-screen-1.0-latest.pdf",
         "cover": "img/cover_porting_python3.png"
     },
     {
@@ -377,7 +386,7 @@
       "authorUrl":"http://kennethreitz.com/",
       "level":"Beginner",
       "info":"This opinionated guide exists to provide both novice and expert Python developers a best-practice handbook to the installation, configuration, and usage of Python on a daily basis.",
-      "url":"http://python-guide.org/",
+      "url":"https://media.readthedocs.org/pdf/python-guide/latest/python-guide.pdf",
       "cover":"img/PythonGuide.png"
     },
     {
@@ -386,7 +395,7 @@
       "authorUrl":"http://www.camdp.com",
       "level":"Intermediate",
       "info":"aka 'Bayesian Methods for Hackers': An introduction to Bayesian methods + probabilistic programming in data analysis with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)",
-      "url":"https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",���
+      "url":"http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/",
       "cover":"img/BMH.png"
     },
     {
@@ -404,7 +413,7 @@
       "authorUrl":"http://coffeeghost.net",
       "level":"Beginner",
       "info":"The book teaches complete beginners how to program in the Python programming language. The reader not only learns about several classical ciphers, but also how to write programs that encrypt and hack these ciphers.",
-      "url":"http://inventwithpython.com/hacking/index.html",
+      "url":"http://inventwithpython.com/hackingciphers.pdf",
       "cover":"img/hackingcyphers.png"
     },
     {
@@ -413,7 +422,7 @@
       "authorUrl":"http://www.organisms.be/",
       "level":"Intermediate",
       "info":"Case studies in Python - using the libraries nodebox and pattern the author creates wonderful fractals and infographics; python code snippets included",
-      "url":"http://bit.ly/modeling-creativity",
+      "url":"http://www.clips.ua.ac.be/sites/default/files/modeling-creativity.pdf",
       "cover":"img/modelingcreativity.png"
     },
     {
@@ -422,7 +431,7 @@
       "authorUrl":"http://www.oreillynet.com/pub/au/5721",
       "level":"Intermediate",
       "info":"This book uses a concrete example—the development of a website, from scratch—to teach the TDD metholology, and how it applies to web programming, from the basics of database integration and javascript, going via browser-automation tools like Selenium, to advanced (and trendy) topics like NoSQL, websockets and Async programming.",
-      "url":"http://chimera.labs.oreilly.com/books/1234000000754",
+      "url":"http://chimera.labs.oreilly.com/books/1234000000754/index.html",
       "cover": "img/testdriven.jpg"
     },
     {
@@ -458,13 +467,13 @@
       "authorUrl":"http://mundogeek.net/",
       "level":"Beginner",
       "info":"[SPANISH] Libro sobre programación en Python a modo de tutorial, adecuado para todos los niveles de aprendizaje, desde novatos hasta expertos que quieren conocer más sobre Python.",
-      "url":"http://mundogeek.net/tutorial-python/",
+      "url":"http://edge.launchpad.net/improve-python-spanish-doc/0.4/0.4.0/+download/Python%20para%20todos.pdf",
       "cover": "img/tutorial-python.jpg"
     },
     {
       "title":"Python in Hydrology",
       "author":"Sat Kumar Tomer",
-      "authorUrl":"http://www.greenteapress.com/pythonhydro/pythonhydro.html",
+      "authorUrl":"http://civil.iisc.ernet.in/~satkumar/",
       "level":"Beginner",
       "info":"Python in Hydrology is written for learning Python using its applications in hydrology. The book covers the basic applications of hydrology, and also the advanced topic like use of copula.",
       "url":"http://www.greenteapress.com/pythonhydro/pythonhydro.pdf",
@@ -476,7 +485,7 @@
       "authorUrl":"http://zacharski.org/",
       "level":"Intermediate",
       "info":"A guide to practical data mining, collective intelligence, and building recommendation systems.",
-      "url":"http://guidetodatamining.com/",
+      "url":"http://guidetodatamining.com/assets/guideChapters/Guide2DataMining.pdf",
       "cover": "img/cover_guidetodatamining.png"
     },
     {
@@ -511,8 +520,8 @@
       "author":"Leif Azzopardi",
       "authorUrl":"http://leifos.me",
       "level":"Beginner",
-      "info":"A beginner's guide to web development with Django 1.5.4. This book has been designed to get you going fast and to learn by example. You'll learn the key aspects of the Python Django Framework by developing an application called Rango.",
-      "url":"http://www.tangowithdjango.com",
+      "info":"A beginner's guide to web development with Django 1.7. This book has been designed to get you going fast and to learn by example. You'll learn the key aspects of the Python Django Framework by developing an application called Rango.",
+      "url":"http://www.tangowithdjango.com/book17/",
       "cover": "img/cover_tangowithdjango.jpg"
     },
 	{
@@ -548,7 +557,7 @@
       "authorUrl":"https://djangogirls.org/",
       "level":"Beginner",
       "info":"It's a very beginner-friendly tutorial with introductions to the command line, Python, Django, HTML and CSS. ",
-      "url":"https://www.gitbook.com/book/djangogirls/djangogirls-tutorial/details",
+      "url":"https://www.gitbook.com/download/pdf/book/djangogirls/djangogirls-tutorial?lang=en",
       "cover": "img/cover_djangogirls_tutorial.jpg"
     }
 ]}
