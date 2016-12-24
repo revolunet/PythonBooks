@@ -25,7 +25,7 @@
         "author": "David Mertz",
         "authorUrl": "http://www.oreilly.com/programming/free/from-future-import-python.csp",
         "level": "Beginner",
-        "info": "This report guides you through the implicit decision tree of choosing what Python version, implementation, and distribution is best suited for you.",
+        "info": "This report guides you through the0z implicit decision tree of choosing what Python version, implementation, and distribution is best suited for you.",
         "url": "http://www.oreilly.com/programming/free/files/from-future-import-python.pdf",
         "cover": "img/cover_picking_python_version_manifesto.gif"
     },
@@ -44,7 +44,7 @@
         "authorUrl": "http://pythontips.com/",
         "level": "Intermediate",
         "info": "Python is an amazing language with a strong and friendly community of programmers. However, there is a lack of documentation on what to learn after getting the basics of Python down your throat. Through this book I aim to solve this problem. I would give you bits of information about some interesting topics which you can further explore.  The topics which are discussed in this book open up your mind towards some nice corners of Python language. This book is an outcome of my desire to have something like this when I was beginning to learn Python.",
-        "url": "http://readthedocs.org/projects/intermediatepythongithubio/downloads/pdf/latest",
+        "url": "https://media.readthedocs.org/pdf/intermediatepythongithubio/latest/intermediatepythongithubio.pdf",
         "cover": "img/cover_IntermediatePython_Yasoob2.jpg"
     },
     {
@@ -80,7 +80,7 @@
         "authorUrl": "http://getpython3.com/diveintopython3/",
         "level": "Intermediate",
         "info": "Dive Into Python is a free Python book (from 2004) for experienced programmers. It covers many basics of the language",
-        "url": "http://www.diveintopython.net/toc/index.html",
+        "url": "http://www.diveintopython.net/download/diveintopython-pdf-5.4.zip",
         "cover": "img/cover_divepython.jpg"
     },
     {
@@ -89,7 +89,7 @@
         "authorUrl": "http://getpython3.com/diveintopython3/",
         "level": "Intermediate",
         "info": "Dive Into Python 3 covers what's new in Python 3 and how its differs from Python 2.",
-        "url": "http://getpython3.com/diveintopython3/whats-new.html",
+        "url": "https://github.com/downloads/diveintomark/diveintopython3/dive-into-python3.pdf",
         "cover": "img/cover_divepython3.jpg"
     },
     {
@@ -116,7 +116,7 @@
         "authorUrl": "https://docs.djangoproject.com/en/dev/intro/",
         "level": "Intermediate",
         "info": "With this hands-on tutorial, discover Django the popular high-level Python Web framework that encourages rapid development and clean, pragmatic design.",
-        "url": "https://docs.djangoproject.com/en/dev/intro/",
+        "url": "https://media.readthedocs.org/pdf/django/latest/django.pdf",
         "cover": "img/cover_django.png"
     },
     {
@@ -125,7 +125,7 @@
         "authorUrl": "http://pyramid.readthedocs.org/en/latest/index.html",
         "level": "Intermediate",
         "info": "With this tutorial, discover Pyramid a Python web application development framework. Its primary goal is to make it easier for a Python developer to create web applications.",
-        "url": "http://docs.pylonsproject.org/projects/pyramid_tutorials/en/latest/humans/index.html",
+        "url": "docs.pylonsproject.org/projects/pyramid_tutorials/en/latest/index.html",
         "cover": "img/cover_pyramid.png"
     },
     {
@@ -170,7 +170,7 @@
         "authorUrl": "http://www.rexx.com/~dkuhlman",
         "level": "Beginner",
         "info": "This document is a syllabus for a first course in Python programming. This course contains an introduction to the Python language, instruction in the important and commonly used features of the language, and practical excercises in the use of those features.",
-        "url": "http://cutter.rexx.com/~dkuhlman/python_101/python_101.html",
+        "url": "http://www.davekuhlman.org/python_101.html",
         "cover": "img/cover_python101.png"
     },
     {
@@ -377,7 +377,7 @@
       "authorUrl":"http://www.camdp.com",
       "level":"Intermediate",
       "info":"aka 'Bayesian Methods for Hackers': An introduction to Bayesian methods + probabilistic programming in data analysis with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)",
-      "url":"https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
+      "url":"https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",   
       "cover":"img/BMH.png"
     },
     {
