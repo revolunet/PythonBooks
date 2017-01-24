@@ -541,5 +541,14 @@
       "info":"It's a very beginner-friendly tutorial with introductions to the command line, Python, Django, HTML and CSS. ",
       "url":"https://www.gitbook.com/book/djangogirls/djangogirls-tutorial/details",
       "cover": "img/cover_djangogirls_tutorial.jpg"
+    },
+    {
+      "title":"Aprenda Python Básico Rápido e Fácil de Entender",
+      "author":"Felipe Galvão",
+      "authorUrl":"http://felipegalvao.com.br/",
+      "level":"Beginner",
+      "info":"[PORTUGUESE]Livro de Python voltado para iniciantes, contendo todo o básico da sintaxe da linguagem.",
+      "url":"http://felipegalvao.com.br/livros/",
+      "cover": "img/python_basico_capa_menor.png"
     }
 ]}
