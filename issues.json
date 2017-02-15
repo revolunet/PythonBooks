@@ -22,7 +22,7 @@
             "author": "David Mertz",
             "authorUrl": "http://www.oreilly.com/programming/free/from-future-import-python.csp",
             "level": "Beginner",
-            "info": "This report guides you through the0z implicit decision tree of choosing what Python version, implementation, and distribution is best suited for you.",
+            "info": "This report guides you through the implicit decision tree of choosing what Python version, implementation, and distribution is best suited for you.",
             "url": "http://www.oreilly.com/programming/free/files/from-future-import-python.pdf",
             "cover": "img/cover_picking_python_version_manifesto.gif"
         },
