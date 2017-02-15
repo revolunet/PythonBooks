@@ -43,6 +43,7 @@
         <!-- ==========================
         JOBS
         =========================== -->
+        <!--
         <div class="row">
             <a class="recrutement span12" href="mailto:contact@revolunet.com?subject=work at revolunet" target="_blank"> {{ • We're hiring talented web developers in Paris, France • }}</a>
             <div class="pythonbooks span12">
@@ -52,6 +53,7 @@
                 </a>
             </div>
         </div>
+        -->
 
         <!-- ///////// BOOKS -->
         <div class="row" id="issueswrap"></div>
@@ -62,8 +64,8 @@
     =========================== -->
     <div class="footer">
         <hr>
-        <a href="http://www.revolunet.com" target="_blank" onclick="_gaq.push(['_trackEvent', 'pythonbooks', 'clic footer'])" > 
-            <img src="img/revologo.png" width="150" height="29" alt="Revolunet"> 
+        <a href="http://www.revolunet.com" target="_blank" onclick="_gaq.push(['_trackEvent', 'pythonbooks', 'clic footer'])" >
+            <img src="img/revologo.png" width="150" height="29" alt="Revolunet">
         </a>
         <p>We provide high quality web applications for desktop and mobile.</p>
 
@@ -79,7 +81,7 @@
     <script type="text/javascript">
 
     function randOrd(){
-      return (Math.round(Math.random())-0.5); 
+      return (Math.round(Math.random())-0.5);
     }
 
     $(document).ready(function() {
@@ -97,7 +99,7 @@
     </script>
 
     <script id="booktpl" type="text/template">
-        {{#books}} 
+        {{#books}}
          <div class="span4 booksection">
           <a target="_blank" href="{{url}}">
             <div class="view"></div>
@@ -121,6 +123,6 @@
         var pageTracker = _gat._getTracker("UA-294393-1");
         pageTracker._trackPageview();
     } catch(err) {}</script>
-    
+
   </body>
 </html>
