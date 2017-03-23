@@ -37,7 +37,7 @@
         },
         {
             "title": "Intermediate Python",
-            "author": "Muhammad Yasoob Ullah Khalid",
+            "author": "Muhammad Yasoob",
             "authorUrl": "http://pythontips.com/",
             "level": "Intermediate",
             "info": "Python is an amazing language with a strong and friendly community of programmers. However, there is a lack of documentation on what to learn after getting the basics of Python down your throat. Through this book I aim to solve this problem. I would give you bits of information about some interesting topics which you can further explore.  The topics which are discussed in this book open up your mind towards some nice corners of Python language. This book is an outcome of my desire to have something like this when I was beginning to learn Python.",
@@ -55,7 +55,7 @@
         },
         {
             "title": "How to Think Like a Computer Scientist: Learning with Python 2nd Ed.",
-            "author": "Jeffrey Elkner, Allen B. Downey, Chris Meyers",
+            "author": "Jeffrey Elkner...",
             "authorUrl": "http://greenteapress.com/",
             "level": "Beginner",
             "info": "This book teaches you Python right in the browser.",
@@ -208,7 +208,7 @@
         },
         {
             "title": "Natural Language Processing with Python",
-            "author": "S. Bird, E. Klein & E. Loper",
+            "author": "S. Bird, E. Klein...",
             "authorUrl": "http://www.nltk.org/",
             "level": "Advanced",
             "info": "Practical introduction to programming for language processing, written by the creators of NLTK.",
@@ -325,7 +325,7 @@
         },
         {
             "title": "Python course",
-            "author": "Patrick Fuchs / Pierre Poulain,",
+            "author": "Patrick Fuchs",
             "authorUrl": "http://www.dsimb.inserm.fr/~fuchs/",
             "level": "Beginner",
             "info": "[FRENCH] Beginner and progressive course about Python theory and concepts",
@@ -370,7 +370,7 @@
         },
         {
             "title": "Non-Programmer's Tutorial for Python 3",
-            "author": "Josh Cogliati/Wikibooks/Others",
+            "author": "Josh Cogliati and others",
             "authorUrl": "http://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3",
             "level": "Beginner",
             "info": "The Non-Programmers' Tutorial For Python 3 is a tutorial designed to be an introduction to the Python programming language. This guide is for someone with no programming experience.",
@@ -388,7 +388,7 @@
         },
         {
             "title": "Probabilistic Programming and Bayesian Methods for Hackers: Using Python and PyMC",
-            "author": "Cam Davidson-Pilon and community",
+            "author": "Cam Davidson-Pilon",
             "authorUrl": "http://www.camdp.com",
             "level": "Intermediate",
             "info": "aka 'Bayesian Methods for Hackers': An introduction to Bayesian methods + probabilistic programming in data analysis with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)",
@@ -559,7 +559,7 @@
         },
         {
             "title": "Algorithmic Problem Solving with Python",
-            "author": "John B. Schneider, Shira Lynn Broschat, Jess Dahmen",
+            "author": "John B. Schneider...",
             "authorUrl": "http://www.eecs.wsu.edu/~schneidj/",
             "level": "Beginner",
             "info": "Python's syntax and idioms are much easier to learn than those of most other full-featured languages. This book uses programming language Python to introduce folks to programming and algorithmic thinking.",
@@ -601,7 +601,7 @@
             "info": "You're knee deep in learning the Python programming language. The syntax is starting to make sense. Now you want to take your knowledge and make something real. This book explains each Python web application stack layer and provides the resources.",
             "url": "http://www.fullstackpython.com/table-of-contents.html",
             "cover": "img/fullstackpython.jpg"
-        }
+        },
         {
             "title": "What You Need to Know about Python",
             "author": "Pierluigi Riti",
@@ -610,7 +610,7 @@
             "info": "The absolute essentials you need to know to get Python up and running",
             "url": "https://www.packtpub.com/packt/free-ebook/what-you-need-know-about-python2",
             "cover": "img/What_You_Need_to_Know_about_Python.jpg"
-        }
+        },
         {
             "title": "Learning Python",
             "author": "Fabrizio Romano",
@@ -619,7 +619,7 @@
             "info": "Learn to code like a professional with Python – an open source, versatile, and powerful programming language",
             "url": "https://www.packtpub.com/packt/free-ebook/learning-python",
             "cover": "img/Learning_Python.png"
-        }    
+        },
         {
             "title": "What You Need to Know about Machine Learning",
             "author": "Gabriel A. Cánepa",
@@ -628,6 +628,6 @@
             "info": "This book lays the foundation for your work in the world of Machine Learning, providing the basic understanding, knowledge, and skills that you can build on with experience and time",
             "url": "https://www.packtpub.com/packt/free-ebook/what-you-need-know-about-machine-learning2",
             "cover": "img/What_You_Need_to_Know_about_Machine_Learning.jpg"
-        }              
+        }
     ]
 }
