@@ -602,5 +602,32 @@
             "url": "http://www.fullstackpython.com/table-of-contents.html",
             "cover": "img/fullstackpython.jpg"
         }
+        {
+            "title": "What You Need to Know about Python",
+            "author": "Pierluigi Riti",
+            "authorUrl": "https://www.packtpub.com/packt/free-ebook/what-you-need-know-about-python2",
+            "level": "Beginner",
+            "info": "The absolute essentials you need to know to get Python up and running",
+            "url": "https://www.packtpub.com/packt/free-ebook/what-you-need-know-about-python2",
+            "cover": "img/What_You_Need_to_Know_about_Python.jpg"
+        }
+        {
+            "title": "Learning Python",
+            "author": "Fabrizio Romano",
+            "authorUrl": "https://www.packtpub.com/packt/free-ebook/learning-python",
+            "level": "Intermediate",
+            "info": "Learn to code like a professional with Python – an open source, versatile, and powerful programming language",
+            "url": "https://www.packtpub.com/packt/free-ebook/learning-python",
+            "cover": "img/Learning_Python.png"
+        }    
+        {
+            "title": "What You Need to Know about Machine Learning",
+            "author": "Gabriel A. Cánepa",
+            "authorUrl": "https://www.packtpub.com/packt/free-ebook/what-you-need-know-about-machine-learning2",
+            "level": "Intermediate",
+            "info": "This book lays the foundation for your work in the world of Machine Learning, providing the basic understanding, knowledge, and skills that you can build on with experience and time",
+            "url": "https://www.packtpub.com/packt/free-ebook/what-you-need-know-about-machine-learning2",
+            "cover": "img/What_You_Need_to_Know_about_Machine_Learning.jpg"
+        }              
     ]
 }
