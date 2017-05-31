@@ -637,7 +637,7 @@
             "info": "Expand your Python knowledge and learn all about machine-learning libraries in this user-friendly manual",
             "url": "https://www.packtpub.com/packt/free-ebook/python-machine-learning-algorithms",
             "cover": "img/Building Machine Learning Systems with Python.jpg"
-        },  
+        },
         {
             "title": "Practical Data Analysis",
             "author": "Hector Cuesta",
@@ -655,6 +655,15 @@
             "info": "Over 50 tailor-made recipes for programmers to get the most out of Raspberry Pi using Python to unleash its huge potential",
             "url": "https://www.packtpub.com/packt/free-ebook/python-raspberry-pi-cookbook",
             "cover": "img/Raspberry Pi Cookbook for Python Programmers.jpg"
-        }              
+        }  ,
+        {
+            "title": "Annotated Algorithms In Python",
+            "author": "Massimo Di Pierro",
+            "authorUrl": "https://twitter.com/mdipierro",
+            "level": "Advanced",
+            "info": "This book is assembled from lectures given by the author over a period of 10 years at the School of Computing of DePaul University. The lectures cover multiple classes, including Analysis and Design of Algorithms, Scientific Computing, Monte Carlo Simulations, and Parallel Algorithms.",
+            "url": "https://raw.githubusercontent.com/mdipierro/nlib/master/docs/book_numerical.pdf",
+            "cover": "img/annotated-algorithms.jpg"
+        }
     ]
 }
