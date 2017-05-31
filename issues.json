@@ -628,6 +628,33 @@
             "info": "This book lays the foundation for your work in the world of Machine Learning, providing the basic understanding, knowledge, and skills that you can build on with experience and time",
             "url": "https://www.packtpub.com/packt/free-ebook/what-you-need-know-about-machine-learning2",
             "cover": "img/What_You_Need_to_Know_about_Machine_Learning.jpg"
-        }
+        },
+        {
+            "title": "Building Machine Learning Systems with Python",
+            "author": "Willi Richert, Luis Pedro Coelho",
+            "authorUrl": "https://www.packtpub.com/packt/free-ebook/python-machine-learning-algorithms",
+            "level": "Intermediate",
+            "info": "Expand your Python knowledge and learn all about machine-learning libraries in this user-friendly manual",
+            "url": "https://www.packtpub.com/packt/free-ebook/python-machine-learning-algorithms",
+            "cover": "img/Building Machine Learning Systems with Python.jpg"
+        },  
+        {
+            "title": "Practical Data Analysis",
+            "author": "Hector Cuesta",
+            "authorUrl": "https://www.packtpub.com/packt/free-ebook/practical-data-analysis",
+            "level": "Intermediate",
+            "info": "Transform, model and visualize your data through hands-on projects, developed in open source tools",
+            "url": "https://www.packtpub.com/packt/free-ebook/practical-data-analysis",
+            "cover": "img/Practical Data Analysis.jpg"
+        },
+        {
+            "title": "Raspberry Pi Cookbook for Python Programmers",
+            "author": "Tim Cox",
+            "authorUrl": "https://www.packtpub.com/packt/free-ebook/python-raspberry-pi-cookbook",
+            "level": "Intermediate",
+            "info": "Over 50 tailor-made recipes for programmers to get the most out of Raspberry Pi using Python to unleash its huge potential",
+            "url": "https://www.packtpub.com/packt/free-ebook/python-raspberry-pi-cookbook",
+            "cover": "img/Raspberry Pi Cookbook for Python Programmers.jpg"
+        }              
     ]
 }
