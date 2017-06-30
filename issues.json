@@ -113,7 +113,7 @@
             "authorUrl": "http://kivy.org/",
             "level": "Intermediate",
             "info": "Discover Kivy the multitouch Python framework for desktop and mobile, and learn how to create a simple game.",
-            "url": "http://kivy.org/docs/pdf/Kivy-latest.pdf",
+            "url": "https://readthedocs.org/projects/kivy/downloads/",
             "cover": "img/cover_kivy.png"
         },
         {
