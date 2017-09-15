@@ -1231,14 +1231,34 @@ a.jsbookslinks {
   color: #3775a9;
   text-decoration: none;
 }
-.pythonbooks {
+.jsbooks {
   background-color: transparent;
-  margin: 0 0 30px;
+  margin: 18px 0 0px;
 }
-.pythonbooks > * {
+.jsbooks > * {
   display: inline;
   margin-right: 10px;
 }
+#filterBy {
+  float: left;
+  overflow: hidden;
+  margin: 0 0 30px;
+}
+#filterBy li {
+  float: left;
+  margin: 0 0 0 10px;
+  list-style: none;
+}
+#filterBy li:first-child {
+  margin-left: 0;
+}
+#filterBy a {
+  color: #0b4d84;
+}
+ #filterBy .active {
+  color: #2f99f1;
+}
+
 .booksection {
   margin-bottom: 30px;
 }
@@ -1325,7 +1345,7 @@ hr {
   border-top: 1px solid #dfdddd;
   border-bottom: 1px solid white;
 }
-ul {
+ul#social_buttons {
   list-style-type: none;
   position: absolute;
   top: 50%;
@@ -1333,11 +1353,11 @@ ul {
   right: 40px;
   height: 20px;
 }
-ul li {
+ul#social_buttons li {
   display: inline;
   height: 20px;
 }
-ul li a {
+ul#social_buttons li a {
   vertical-align: top;
   color: grey;
   text-shadow: 1px 0 0 rgba(255, 255, 255, 0.4);
@@ -1348,7 +1368,7 @@ ul li a {
   -ms-transition: all .2s linear;
   transition: all .2s linear;
 }
-ul li a:hover {
+ul#social_buttons li a:hover {
   text-decoration: none;
   color: black;
   text-shadow:none;
@@ -1685,7 +1705,7 @@ ul li a:hover {
   ul {
     margin-top: -10px;
   }
-  ul li:first-child {
+  ul#social_buttons li:first-child {
     display: none;
   }
 }
