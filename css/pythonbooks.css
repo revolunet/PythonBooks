@@ -1705,7 +1705,7 @@ ul#social_buttons li a:hover {
   ul {
     margin-top: -10px;
   }
-  ul li:first-child {
+  ul#social_buttons li:first-child {
     display: none;
   }
 }
