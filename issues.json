@@ -673,6 +673,15 @@
             "info": "The goal of this book is to provide an Informatics-oriented introduction to programming. The primary approach taken in this book is using Python to solve data analysis problems common in the world of Informatics.",
             "url": "https://www.py4e.com/book",
             "cover": "img/cover_python4everybody.jpg"
+        },
+        {
+            "title": "20 Python libraries You Aren't Using (But Should)",
+            "author": "Caleb Hattingh",
+            "authorUrl": "http://www.oreilly.com/pub/au/6789",
+            "level": "Intermediate",
+            "info": "The Python ecosystem is vast and far-reaching in both scope and depth. Starting out in this crazy, open-source forest is daunting, and even with years of experience, it still requires continual effort to keep up-to-date with the best libraries and techniques. This report helps you explore some of the lesser known Python libraries and tools, including third-party modules and several extremely useful tools in the standard library that deserve more attention",
+            "url": "http://www.oreilly.com/programming/free/20-python-libraries-you-arent-using-but-should.csp",
+            "cover": "img/cover_20_python.png"
         }
     ]
 }
