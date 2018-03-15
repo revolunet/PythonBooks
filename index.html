@@ -39,6 +39,13 @@
         </ul>
     </div>
 
+    <!-- adding loader -->
+    <div id="loader-wrapper">
+      <div id="loader"></div>
+      <div class="loader-section section-left"></div>
+      <div class="loader-section section-right"></div>
+    </div>
+
     <div class="container">
         <!-- ==========================
         JOBS
@@ -127,6 +134,7 @@
 
 
     $(document).ready(function() {
+      $('body').addClass('loaded');
       $.getJSON('./issues.json?' + Math.random(), function(data) {
         var template = $('#booktpl').html();
         data.books.sort(randOrd);
@@ -146,7 +154,7 @@
          <div class="span4 booksection {{ level }}">
           <a target="_blank" href="{{url}}">
             <div class="view"></div>
-            <div title="{{ title }}" id="cover" style="background:black url('{{cover}}') no-repeat center;-webkit-background-size:cover;-moz-background-size:cover;background-size:cover;">
+            <div title="{{ title }}" id="cover" style="background:black url('{{cover}}') no-repeat center;-webkit-background-size:cover;-moz-background-size:cover;background-size:cover">
             </div>
             <h2 title="{{ title }}">{{title}}</h2>
           </a>
