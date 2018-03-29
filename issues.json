@@ -682,6 +682,15 @@
             "info": "The Python ecosystem is vast and far-reaching in both scope and depth. Starting out in this crazy, open-source forest is daunting, and even with years of experience, it still requires continual effort to keep up-to-date with the best libraries and techniques. This report helps you explore some of the lesser known Python libraries and tools, including third-party modules and several extremely useful tools in the standard library that deserve more attention",
             "url": "http://www.oreilly.com/programming/free/20-python-libraries-you-arent-using-but-should.csp",
             "cover": "img/cover_20_python.png"
-        }
+        },
+        {
+            "title": "Advanced Machine Learning with Python",
+            "author": "John Hearty",
+            "authorUrl": "https://www.packtpub.com/packt/free-ebook/advanced-python-machine-learning",
+            "level": "ADVANCED",
+            "info": "[registration] Solve challenging data science problems by mastering cutting-edge machine learning techniques in Python",
+            "url": "https://www.packtpub.com/packt/free-ebook/advanced-python-machine-learning",
+            "cover": "img/Advanced-Machine-Learning-with-Python.jpg"
+        }              
     ]
 }
