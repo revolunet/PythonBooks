@@ -691,6 +691,33 @@
             "info": "[registration] Solve challenging data science problems by mastering cutting-edge machine learning techniques in Python",
             "url": "https://www.packtpub.com/packt/free-ebook/advanced-python-machine-learning",
             "cover": "img/Advanced-Machine-Learning-with-Python.jpg"
-        }              
+        },
+        {
+            "title": "Learning OpenCV 3 Computer Vision with Python - Second Edition",
+            "author": "Joe Minichino, Joseph Howse",
+            "authorUrl": "https://www.packtpub.com/free-ebook/opencv-python",
+            "level": "ADVANCED",
+            "info": "[registration] Unleash the power of computer vision with Python using OpenCV",
+            "url": "https://www.packtpub.com/free-ebook/opencv-python",
+            "cover": "img/Learning-OpenCV-3-Computer-Vision-with-Python-Second-Edition.jpg"
+        },
+        {
+            "title": "Building Machine Learning Systems with Python",
+            "author": "Willi Richert, Luis Pedro Coelho",
+            "authorUrl": "https://www.packtpub.com/packt/free-ebook/python-machine-learning-algorithms/",
+            "level": "ADVANCED",
+            "info": "[registration] Expand your Python knowledge and learn all about machine-learning libraries in this user-friendly manual. ML is the next big breakthrough in technology and this book will give you the head-start you need",
+            "url": "https://www.packtpub.com/packt/free-ebook/python-machine-learning-algorithms/",
+            "cover": "img/Building-Machine-Learning-Systems-with-Python.jpg"
+        },
+        {
+            "title": "Learning IPython for Interactive Computing and Data Visualization - Second Edition",
+            "author": "Cyrille Rossant",
+            "authorUrl": "https://www.packtpub.com/free-ebook/learning-ipython",
+            "level": "BEGINNER",
+            "info": "[registration] Get started with Python for data analysis and numerical computing in the Jupyter notebook",
+            "url": "https://www.packtpub.com/free-ebook/learning-ipython",
+            "cover": "img/Learning-IPython-for-Interactive-Computing-and-Data-Visualization-Second-Edition.jpg"
+        }
     ]
 }
