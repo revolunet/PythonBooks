@@ -690,7 +690,7 @@
             "level": "ADVANCED",
             "info": "[registration] Solve challenging data science problems by mastering cutting-edge machine learning techniques in Python",
             "url": "https://www.packtpub.com/packt/free-ebook/advanced-python-machine-learning",
-            "cover": "img/Advanced-Machine-Learning-with-Python.jpg"
+            "cover": "img/Advanced-Machine-Learning-with-Python.jpg"    
         },
         {
             "title": "Learning OpenCV 3 Computer Vision with Python - Second Edition",
