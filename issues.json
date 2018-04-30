@@ -702,15 +702,6 @@
             "cover": "img/Learning-OpenCV-3-Computer-Vision-with-Python-Second-Edition.jpg"
         },
         {
-            "title": "Building Machine Learning Systems with Python",
-            "author": "Willi Richert, Luis Pedro Coelho",
-            "authorUrl": "https://www.packtpub.com/packt/free-ebook/python-machine-learning-algorithms/",
-            "level": "ADVANCED",
-            "info": "[registration] Expand your Python knowledge and learn all about machine-learning libraries in this user-friendly manual. ML is the next big breakthrough in technology and this book will give you the head-start you need",
-            "url": "https://www.packtpub.com/packt/free-ebook/python-machine-learning-algorithms/",
-            "cover": "img/Building-Machine-Learning-Systems-with-Python.jpg"
-        },
-        {
             "title": "Learning IPython for Interactive Computing and Data Visualization - Second Edition",
             "author": "Cyrille Rossant",
             "authorUrl": "https://www.packtpub.com/free-ebook/learning-ipython",
