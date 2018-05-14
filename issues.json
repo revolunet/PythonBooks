@@ -751,7 +751,7 @@
                 "Expand your Python knowledge and learn all about machine-learning libraries in this user-friendly manual",
             "url":
                 "https://www.packtpub.com/packt/free-ebook/python-machine-learning-algorithms",
-            "cover": "img/Building Machine Learning Systems with Python.jpg"
+            "cover": "img/Building-Machine-Learning-Systems-with-Python.jpg"
         },
         {
             "title": "Practical Data Analysis",
@@ -843,7 +843,7 @@
                 "[registration] Get started with Python for data analysis and numerical computing in the Jupyter notebook",
             "url": "https://www.packtpub.com/free-ebook/learning-ipython",
             "cover":
-                "img/Learning-IPython-for-Interactive-Computing-and-Data-Visualization-Second-Edition.jpg"
+                "img/Learning-IPython-for-Interactive-Computing-and-Data-Visualization-Second-Edition.png"
         }
     ]
 }
