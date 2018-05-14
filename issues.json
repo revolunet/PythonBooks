@@ -144,12 +144,12 @@
             "cover": "img/cover_flask.png"
         },
         {
-            "title": "Making games with Python and Pygame",
+            "title": "Making Games with Python and Pygame",
             "author": "Al Sweigart",
-            "authorUrl": "http://inventwithpython.com",
+            "authorUrl": "https://inventwithpython.com",
             "level": "Intermediate",
-            "info": "Making Games with Python & Pygame” covers the Pygame library with the source code for 11 games.",
-            "url": "http://inventwithpython.com/pygame/chapters/",
+            "info": "Teaches the Pygame 2D graphics library with the source code for 11 games.",
+            "url": "https://inventwithpython.com/pygame/",
             "cover": "img/cover_makinggame.png"
         },
         {
@@ -405,13 +405,13 @@
             "cover": "img/web2py.png"
         },
         {
-            "title": "Hacking Secret Ciphers with Python",
+            "title": "Cracking Codes with Python",
             "author": "Al Sweigart",
-            "authorUrl": "http://coffeeghost.net",
+            "authorUrl": "https://inventwithpython.com",
             "level": "Beginner",
-            "info": "The book teaches complete beginners how to program in the Python programming language. The reader not only learns about several classical ciphers, but also how to write programs that encrypt and hack these ciphers.",
-            "url": "http://inventwithpython.com/hackingciphers.pdf",
-            "cover": "img/hackingcyphers.png"
+            "info": "This book features the source code to several ciphers and hacking programs for these ciphers.",
+            "url": "http://inventwithpython.com/cracking/",
+            "cover": "img/CrackingCodes_cover.png"
         },
         {
             "title": "Modeling Creativity",
@@ -488,11 +488,11 @@
         {
             "title": "Invent Your Own Computer Games with Python",
             "author": "Al Sweigart",
-            "authorUrl": "http://coffeeghost.net",
-            "level": "Intermediate",
-            "info": "Small and nice python game examples",
-            "url": "http://inventwithpython.com/chapters/",
-            "cover": "img/cover_inventgame.jpg"
+            "authorUrl": "https://inventwithpython.com/invent4thed/",
+            "level": "Beginner",
+            "info": "Learn to program with the source code for several simple ASCII-art (and later, 2D graphical Pygame) games.",
+            "url": "https://inventwithpython.com/chapters/",
+            "cover": "img/cover_invent4th_thumb.png"
         },
         {
             "title": "Biopython",
@@ -578,8 +578,8 @@
         {
             "title": "Automate the Boring Stuff with Python ",
             "author": "Al Sweigart",
-            "authorUrl": "http://inventwithpython.com/blog/author/admin/",
-            "level": "Intermediate",
+            "authorUrl": "https://inventwithpython.com/",
+            "level": "Beginner",
             "info": "Learn how to use Python to write programs that do in minutes what would take you hours to do by hand -- no prior programming experience required. Once you've mastered the basics of programming, you'll create Python programs that effortlessly perform useful and impressive feats of automation.",
             "url": "https://automatetheboringstuff.com/",
             "cover": "img/automate_cover_medium.png"
@@ -691,6 +691,6 @@
             "info": "[registration] Solve challenging data science problems by mastering cutting-edge machine learning techniques in Python",
             "url": "https://www.packtpub.com/packt/free-ebook/advanced-python-machine-learning",
             "cover": "img/Advanced-Machine-Learning-with-Python.jpg"
-        }              
+        }
     ]
 }
