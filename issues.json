@@ -844,6 +844,18 @@
             "url": "https://www.packtpub.com/free-ebook/learning-ipython",
             "cover":
                 "img/Learning-IPython-for-Interactive-Computing-and-Data-Visualization-Second-Edition.png"
+        },
+        {
+            "title":
+                "Python Crash Course: A Hands-On, Project-Based Introduction to Programming",
+            "author": "Eric Matthes",
+            "authorUrl": "https://ehmatthes.github.io/",
+            "level": "Intermediate",
+            "info":
+                "Python Crash Course is a fast-paced, thorough introduction to Python that will have you writing programs, solving problems, and making things that work in no time.",
+            "url": "https://www.nostarch.com/pythoncrashcourse",
+            "cover":
+                "img/pcc_cover_front.png"
         }
     ]
 }
