@@ -844,6 +844,15 @@
             "url": "https://www.packtpub.com/free-ebook/learning-ipython",
             "cover":
                 "img/Learning-IPython-for-Interactive-Computing-and-Data-Visualization-Second-Edition.png"
-        }
+        },
+        {
+            "title": "Mastering Python",
+            "author": "Rick van Hattem",
+            "authorUrl": "https://www.packtpub.com/free-ebook/mastering-python",
+            "level": "Intermediate",
+            "info": "Master the art of writing beautiful and powerful Python by using all of the features that Python 3.5 offers",
+            "url": "https://www.packtpub.com/free-ebook/mastering-python",
+            "cover": "img/Mastering-Python.jpg"
+        }        
     ]
 }
