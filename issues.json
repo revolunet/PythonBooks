@@ -267,7 +267,7 @@
       "authorUrl": "http://www.itmaybeahack.com",
       "level": "Beginner",
       "info": "How do you learn to program? Through a series of simple exercises that teach programming fundamentals with an easy-to-use, easy-to-learn programming language.",
-      "url": "http://www.itmaybeahack.com/homepage/books/nonprog/html/index.html",
+      "url": "http://www.itmaybeahack.com/buildingskills/oodesign.html#book-oodesign",
       "cover": "img/cover_buildingskillnonpro.jpg"
     },
     {
@@ -285,7 +285,7 @@
       "authorUrl": "http://homepage.mac.com/s_lott/",
       "level": "Intermediate",
       "info": "How do you move from OO programming to OO design? This 301-page book has 49 chapters that will help you build OO design skills through the creation of a moderately complex family of application programs.",
-      "url": "http://www.itmaybeahack.com/book/oodesign-python-2.1/html/index.html",
+      "url": "http://buildingskills.itmaybeahack.com/book/oodesign-3.1/html/index.html",
       "cover": "img/cover_buildingskillsoop.jpg"
     },
     {
