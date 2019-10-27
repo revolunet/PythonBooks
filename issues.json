@@ -28,6 +28,15 @@
       "cover": "img/cover_picking_python_version_manifesto.gif"
     },
     {
+      "title": "Violent Python: A Cookbook for Hackers",
+      "author": "Syngress",
+      "authorUrl": "https://twitter.com/syngress",
+      "level": "Beginner",
+      "info": "Violent Python shows you how to move from a theoretical understanding of offensive computing concepts to a practical implementation.",
+      "url": "https://github.com/reconSF/python/blob/master/Syngress.Violent.Python.a.Cookbook.for.Hackers.2013.pdf",
+      "cover": "img/cover_violent_python.jpg"
+    },
+    {
       "title": "Python para Desenvolvedores (2nd Edition)",
       "author": "Luiz Eduardo Borges",
       "authorUrl": "http://ark4n.wordpress.com/python/",
