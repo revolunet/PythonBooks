@@ -37,6 +37,15 @@
       "cover": "img/cover_violent_python.jpg"
     },
     {
+      "title": "Modern Python Cookbook ",
+      "author": "Steven F. Lott ",
+      "authorUrl": "https://twitter.com/s_lott",
+      "level": "Beginner",
+      "info": "This book comes with over 100 recipes on the latest version of Python. The recipes will benefit everyone ranging from beginner to an expert.",
+      "url": "https://anonfiles.com/h8T6p990n6/9781786469250-MODERN_PYTHON_COOKBOOK-comp_pdf",
+      "cover": "img/cover_modern_python.png"
+    },
+    {
       "title": "Python para Desenvolvedores (2nd Edition)",
       "author": "Luiz Eduardo Borges",
       "authorUrl": "http://ark4n.wordpress.com/python/",
