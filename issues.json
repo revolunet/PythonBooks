@@ -1,6 +1,15 @@
 {
   "books": [
     {
+      "title": "Python® Notes for Professionals",
+      "author": "GoalKicker",
+      "authorUrl": "https://books.goalkicker.com/",
+      "level": "Intermediate",
+      "info": "This Python® Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow.",
+      "url": "https://books.goalkicker.com/PythonBook/",
+      "cover": "img/cover_PythonGrow.png"
+    },
+    {
       "title": "How to Make Mistakes in Python",
       "author": "Mike Pirnat",
       "authorUrl": "http://mike.pirnat.com/",
