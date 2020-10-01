@@ -19,7 +19,7 @@ If you find a nice ebook about Python, feel free to fork PythonBooks and add it 
 
 Alternatively, you can send us an email with book infos : pythonbooks@revolunet.com
 
-Thanks per advance !
+Thanks per advance 💙!
 
 
 ## HISTORY
