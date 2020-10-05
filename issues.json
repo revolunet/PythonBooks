@@ -728,6 +728,42 @@
       "info": "[registration] Master the art of writing beautiful and powerful Python by using all of the features that Python 3.5 offers",
       "url": "https://www.packtpub.com/free-ebook/mastering-python",
       "cover": "img/Mastering-Python.jpg"
+    },
+    {
+      "title": "Think Bayes",
+      "author": "Allen B. Downey",
+      "authorUrl": "http://www.greenteapress.com/",
+      "level": "Advanced",
+      "info": "Think Bayes is an introduction to Bayesian statistics using computational methods.",
+      "url": "http://www.greenteapress.com/thinkbayes/thinkbayes.pdf",
+      "cover": "img/cover_bayes.png"
+    },
+    {
+      "title": "Think DSP",
+      "author": "Allen B. Downey",
+      "authorUrl": "http://www.greenteapress.com/",
+      "level": "Advanced",
+      "info": "Think DSP is an introduction to Digital Signal Processing in Python.",
+      "url": "http://greenteapress.com/thinkdsp/thinkdsp.pdf",
+      "cover": "img/cover_dsp.jpg"
+    },
+    {
+      "title": "Python 101",
+      "author": "Michael Driscoll",
+      "authorUrl": "https://www.blog.pythonlibrary.org/",
+      "level": "Beginner",
+      "info": "Learn how to program with Python 3 from beginning to end. Python 101 starts off with the fundamentals of Python and then builds onto what you’ve learned from there.",
+      "url": "https://python101.pythonlibrary.org/",
+      "cover": "img/cover_py101.jpg"
+    },
+    {
+      "title": "Learn Python, Break Python",
+      "author": "Scott Grant",
+      "authorUrl": "https://scootah.com/",
+      "level": "Beginner",
+      "info": "Learn Python, Break Python is a hands-on introduction to the Python programming language, written for people who have no experience with programming whatsoever.",
+      "url": "https://learnpythonbreakpython.com/",
+      "cover": "img/cover_learnbreak.jpg"
     }
   ]
 }
