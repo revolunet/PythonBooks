@@ -1,10 +1,13 @@
-# PythonBooks
+#PythonBooks
 
 PythonBooks is a showcase of the best free ebooks about Python.
 
 Learn Python, discover new fields, and muscle your brain for free !
 
 check it out : http://pythonbooks.revolunet.com
+
+python notes:
+https://drive.google.com/file/d/1YqqnFdpmoIf6xSJrZuAmV_-kwKbwBbzw/view?usp=drivesdk
 
 We also have a javascript version : http://jsbooks.revolunet.com
 
